@@ -20,7 +20,7 @@ Moreover, I worked on knowledge representation and extraction, natural language 
 
 [Full CV - PDF](cv.pdf)
 
-[Full publications list](publications.md)
+[Full list of publications](publications.md)
 
 ## Contacts
 * **IBM email:** cor AT zurich.ibm.com
