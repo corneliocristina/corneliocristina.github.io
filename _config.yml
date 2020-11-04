@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 title: Cristina Cornelio
 description: Research Staff Member @ IBM Research
+
+navbar-links:
+  About Me: "index"
+  Publications : "publications"
