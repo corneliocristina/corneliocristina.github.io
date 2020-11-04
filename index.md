@@ -1,1 +1,29 @@
-test!
+[Picture] 
+### Research Staff Member IBM Research
+
+My research interests lie mainly in/at the intersection of **formal logic** and **machine learning**.
+
+My current work focuses on **reasoning**, inference mechanisms, automated theorem proving, probabilistic logic, neural-symbolic methods, neural embeddings for logic, deep learning for standard reasoning systems, and reasoning for automated **scientific discovery**.
+
+Moreover, I worked on knowledge representation and extraction, natural language processing (NLP),  preferences representations (in logic, in probability theory and using graphical models), reasoning over preferences, preference aggregation in a multi agent context, voting rules (computational social choice), and kidney exchange algorithms. 
+
+
+## Brief Bio 
+[full CV - PDF]
+* **Jul 2019 – present:**  Research Scientist IBM Research – Zurich Research Center (Rüschlikon)
+* **Oct 2017 – Jun 2019:**  Research Staff Member IBM Research – T.J. Watson Research Center
+* **Jul 2016 – Oct 2017:** Post-Doc IBM – T.J.Watson Research Center
+* **Jan 2016 – Jun 2016:** Post-Doc University of Padua, Italy 
+* **Jan 2013 – Mar 2016:** PhD in Mathematics (Computer Science Area) University of Padua, Italy
+* **Oct 2010 – Oct 2012:** Master’s degree in mathematics University of Padua, Italy
+* **Sept 2007 – Oct 2010:** Bachelor’s Degree in mathematics University of Udine, Italy
+
+## Contact me at
+* IBM email: cor AT zurich.ibm.com
+* personal email: corneliocristina AT gmail.com
+
+## Links
+* [google scholar](https://scholar.google.com/citations?user=EP9lmrcAAAAJ&hl=en)
+* [LinkedIn](https://www.linkedin.com/in/cristina-cornelio-545a8a36/en-us)
+* [Semantic Scolar](https://www.semanticscholar.org/author/Cristina-Cornelio/2470518)
+* [DBLP](https://dblp.uni-trier.de/pid/137/3340.html)
