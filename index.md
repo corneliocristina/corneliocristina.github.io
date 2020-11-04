@@ -1,4 +1,4 @@
-[Picture] 
+![Image](me.png)
 
 I currently work as **Research Staff Member** at **IBM Research (Zürich lab)**.
 
@@ -18,7 +18,8 @@ Moreover, I worked on knowledge representation and extraction, natural language 
 * **Oct 2010 – Oct 2012:** Master’s degree in mathematics - University of Padua, Italy
 * **Sept 2007 – Oct 2010:** Bachelor’s Degree in mathematics - University of Udine, Italy
 
-[Full CV - PDF]
+[Full CV - PDF](cv.pdf)
+<a href="corneliocristina.github.io/cv.pdf" target="_blank">Full CV - PDF</a>
 
 [Full publications list](publications.md)
 
