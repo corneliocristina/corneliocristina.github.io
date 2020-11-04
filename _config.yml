@@ -1,5 +1,9 @@
 theme: jekyll-theme-cayman
 title: Cristina Cornelio
+redirect_to: https://corneliocristina.github.io
 description: Research Staff Member @ IBM Research
 # Your name to show in the footer
 author: Cristina Cornelio
+url: https://corneliocristina.github.io
+baseurl: ''
+accent_color: '#4fb1ba'
