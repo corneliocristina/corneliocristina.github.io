@@ -19,7 +19,6 @@ Moreover, I worked on knowledge representation and extraction, natural language 
 * **Sept 2007 – Oct 2010:** Bachelor’s Degree in mathematics - University of Udine, Italy
 
 [Full CV - PDF](cv.pdf)
-<a href="corneliocristina.github.io/cv.pdf" target="_blank">Full CV - PDF</a>
 
 [Full publications list](publications.md)
 
