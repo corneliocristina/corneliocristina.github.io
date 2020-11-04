@@ -1,7 +1,8 @@
+[<home](index.md)
 # Publications
 
 ## Open Source Projects:
-* **RuDaS:** Synthetic dataset generation code and evaluation tools for ILP
+* **RuDaS:** **S**ynthetic **Da**tasets for **Ru**le Learning and Evaluation Tools
   * [GitHub repo](https://github.com/IBM/RuDaS)
   * [ArXiv paper](https://arxiv.org/abs/1909.07095)
 
@@ -29,7 +30,7 @@
 * **Capturing the global structure logical formulae with graph long short-term memory**, M. Crouse, I. Abdelaziz, C. Cornelio, V. Thost, L. Wu,  B. Makni, K. Srinivas, A. Fokoue, filed on: 14th Nov. 2019
 * **Automatic transformation of complex tables in documents into computer understandable structured format and managing dependencies**, C. Cornelio, M. Canim, R. Musa, M. Rodriguez Muro, A. Iyengar, filed on: 18th Apr. 2019
 * **Automatic transformation of complex tables in documents into computer understandable structured format with mapped dependencies and providing schema-less query support for searching table data**, C. Cornelio, M. Canim, R. Musa, M. Rodriguez Muro, A. Iyengar, filed on: 18th Apr. 2019
-* **Method for automatic transformation of complex tables in documents (PDF, Word) into computer understandable structured format and providing schemaless query support Data Extraction**, C. Cornelio, M. Canim, R. Musa, M. Rodriguez Muro, A. Iyengar, P201800552US01, filed on 18th Apr. 2019
+* **Method for automatic transformation of complex tables in documents (PDF, Word) into computer understandable structured format and providing schemaless query support Data Extraction**, C. Cornelio, M. Canim, R. Musa, M. Rodriguez Muro, A. Iyengar, filed on: 18th Apr. 2019
 
 ## Workshop papers:
 * **Dynamic Probabilistic CP-nets**, C. Cornelio, U. Grandi, J. Goldsmith, N. Mattei, F. Rossi and K.B. Venable, Proceedings of the 7th Multidisciplinary Workshop on Advances in Preference Handling, MPREF-13.
