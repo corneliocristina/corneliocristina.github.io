@@ -10,7 +10,6 @@ Moreover, I worked on knowledge representation and extraction, natural language 
 
 
 ## Brief Bio 
-[full CV - PDF]
 * **Jul 2019 – present:**  Research Scientist at IBM Research – Zürich Research Center (Rüschlikon)
 * **Oct 2017 – Jun 2019:**  Research Staff Member at IBM Research – T.J. Watson Research Center
 * **Jul 2016 – Oct 2017:** Post-Doc at IBM Research – T.J.Watson Research Center
@@ -18,6 +17,10 @@ Moreover, I worked on knowledge representation and extraction, natural language 
 * **Jan 2013 – Mar 2016:** PhD in Mathematics (Computer Science Area) - University of Padua, Italy
 * **Oct 2010 – Oct 2012:** Master’s degree in mathematics - University of Padua, Italy
 * **Sept 2007 – Oct 2010:** Bachelor’s Degree in mathematics - University of Udine, Italy
+
+[Full CV - PDF]
+
+[Full publications list](publications.md)
 
 ## Contacts
 * **IBM email:** cor AT zurich.ibm.com
