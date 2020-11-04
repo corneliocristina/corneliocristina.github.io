@@ -1,7 +1,8 @@
 [Picture] 
-### Research Staff Member IBM Research
 
-My research interests lie mainly in/at the intersection of **formal logic** and **machine learning**.
+I currently work as Research Staff Member at IBM Research (Zürich lab).
+
+My research interests lie mainly in the intersection of **formal logic** and **machine learning**.
 
 My current work focuses on **reasoning**, inference mechanisms, automated theorem proving, probabilistic logic, neural-symbolic methods, neural embeddings for logic, deep learning for standard reasoning systems, and reasoning for automated **scientific discovery**.
 
