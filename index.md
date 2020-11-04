@@ -23,7 +23,7 @@ Moreover, I worked on knowledge representation and extraction, natural language 
 * personal email: corneliocristina AT gmail.com
 
 ## Links
-* [google scholar](https://scholar.google.com/citations?user=EP9lmrcAAAAJ&hl=en)
+* [Google Scholar](https://scholar.google.com/citations?user=EP9lmrcAAAAJ&hl=en)
 * [LinkedIn](https://www.linkedin.com/in/cristina-cornelio-545a8a36/en-us)
-* [Semantic Scolar](https://www.semanticscholar.org/author/Cristina-Cornelio/2470518)
+* [Semantic Scholar](https://www.semanticscholar.org/author/Cristina-Cornelio/2470518)
 * [DBLP](https://dblp.uni-trier.de/pid/137/3340.html)
