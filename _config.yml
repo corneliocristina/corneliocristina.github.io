@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: [Cristina Cornelio](index.md)
 description: Research Staff Member @ IBM Research
-baseurl: /
+basename: index.md
 
 
   # navbar-links:
