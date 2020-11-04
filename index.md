@@ -8,7 +8,6 @@ My current work focuses on **reasoning**, inference mechanisms, automated theore
 
 Moreover, I have worked on knowledge representation and extraction, natural language processing, preference representations (in logic, in probability theory, and using graphical models), reasoning over preferences, preference aggregation in a multi-agent context, voting rules (computational social choice), and kidney exchange algorithms. 
 
-
 ## Brief Bio 
 [Full CV - PDF](cv.pdf)
 * **Jul 2019 – present:**  Research Scientist at IBM Research – Zürich Research Center (Rüschlikon), Switzerland
