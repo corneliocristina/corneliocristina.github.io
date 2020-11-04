@@ -1,7 +1,3 @@
-layout: page
-title: "PUBLICATIONS"
-permalink: /
-
 # PUBLICATIONS
 
 ## Open Source Projects:
