@@ -22,14 +22,14 @@
 * **Sequential voting in multi-agent soft constraint aggregation**, C. Cornelio, M.S. Pini, F. Rossi, K. B. Venable, Proceedings of the International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS) 2020 - JAAMAS track.
 
 ## Patents:
-* **Generative Reasoning for Symbolic Discovery**, C. Cornelio, L. Horesh, V. Pestun, R. Yan, filed on: 2/10/2020, patent ID: P202006430US01 (Application Number 17/062058)
-* **Symbolic Model Discovery based on a combination of Numerical Learning Methods and Reasoning**, C Cornelio, L Horesh, A Fokoue-Nkoutche, Sanjeeb Dash, filed on: 7/21/2020, patent ID: P202000488US01 (Application Number 16/934574)
-* **Problem manipulators for language-independent reasoning**. C. Cornelio, A. Fokoue, A. Pareja, I. Abdelaziz, M. Witbrock, filed on: 4/29/2020, patent ID: P202000481US01 (Application Number 16/864090)
-* **Experimental Design for Symbolic Model Discovery**. L. Horesh, K. Clarkson, C. Cornelio, S. Magliacane, filed on: 4/21/2020, patent ID: P201809327US01 (Application Number 16/855085)
-* **Capturing the global structure logical formulae with graph long short-term memory**, M. Crouse, I. Abdelaziz, C. Cornelio, V. Thost, L. Wu,  B. Makni, K. Srinivas, A. Fokoue, filed on: 11/14/2019, patent ID: P201907617US01.
-* **Automatic transformation of complex tables in documents into computer understandable structured format and managing dependencies**, C. Cornelio, M. Canim, R. Musa, M. Rodriguez Muro, A. Iyengar, P201800552BUS01, filed to the USPTO 4/18/2019 (Application Number 16/389123).
-* **Automatic transformation of complex tables in documents into computer understandable structured format with mapped dependencies and providing schema-less query support for searching table data**, C. Cornelio, M. Canim, R. Musa, M. Rodriguez Muro, A. Iyengar, P201800552AUS01, filed to the USPTO 4/18/2019 (Application Number 16/389102).
-* **Method for automatic transformation of complex tables in documents (PDF, Word) into computer understandable structured format and providing schemaless query support Data Extraction**, C. Cornelio, M. Canim, R. Musa, M. Rodriguez Muro, A. Iyengar, P201800552US01, filed to the USPTO 4/18/2019: (Application Number 16/389073).
+* **Generative Reasoning for Symbolic Discovery**, C. Cornelio, L. Horesh, V. Pestun, R. Yan, filed on: 10th Feb. 2020
+* **Symbolic Model Discovery based on a combination of Numerical Learning Methods and Reasoning**, C Cornelio, L Horesh, A Fokoue-Nkoutche, Sanjeeb Dash, filed on: 21st Jul. 2020
+* **Problem manipulators for language-independent reasoning**. C. Cornelio, A. Fokoue, A. Pareja, I. Abdelaziz, M. Witbrock, filed on: 29th Apr. 2020
+* **Experimental Design for Symbolic Model Discovery**. L. Horesh, K. Clarkson, C. Cornelio, S. Magliacane, filed on: 21st Apr. 2020
+* **Capturing the global structure logical formulae with graph long short-term memory**, M. Crouse, I. Abdelaziz, C. Cornelio, V. Thost, L. Wu,  B. Makni, K. Srinivas, A. Fokoue, filed on: 14th Nov. 2019
+* **Automatic transformation of complex tables in documents into computer understandable structured format and managing dependencies**, C. Cornelio, M. Canim, R. Musa, M. Rodriguez Muro, A. Iyengar, filed on: 18th Apr. 2019
+* **Automatic transformation of complex tables in documents into computer understandable structured format with mapped dependencies and providing schema-less query support for searching table data**, C. Cornelio, M. Canim, R. Musa, M. Rodriguez Muro, A. Iyengar, filed on: 18th Apr. 2019
+* **Method for automatic transformation of complex tables in documents (PDF, Word) into computer understandable structured format and providing schemaless query support Data Extraction**, C. Cornelio, M. Canim, R. Musa, M. Rodriguez Muro, A. Iyengar, P201800552US01, filed on 18th Apr. 2019
 
 ## Workshop papers:
 * **Dynamic Probabilistic CP-nets**, C. Cornelio, U. Grandi, J. Goldsmith, N. Mattei, F. Rossi and K.B. Venable, Proceedings of the 7th Multidisciplinary Workshop on Advances in Preference Handling, MPREF-13.
