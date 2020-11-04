@@ -1,12 +1,12 @@
 [Picture] 
 
-I currently work as Research Staff Member at IBM Research (Zürich lab).
+I currently work as **Research Staff Member** at **IBM Research (Zürich lab)**.
 
 My research interests lie mainly in the intersection of **formal logic** and **machine learning**.
 
 My current work focuses on **reasoning**, inference mechanisms, automated theorem proving, probabilistic logic, neural-symbolic methods, neural embeddings for logic, deep learning for standard reasoning systems, and reasoning for automated **scientific discovery**.
 
-Moreover, I worked on knowledge representation and extraction, natural language processing (NLP),  preferences representations (in logic, in probability theory and using graphical models), reasoning over preferences, preference aggregation in a multi agent context, voting rules (computational social choice), and kidney exchange algorithms. 
+Moreover, I worked on knowledge representation and extraction, natural language processing,  preferences representations (in logic, in probability theory and using graphical models), reasoning over preferences, preference aggregation in a multi agent context, voting rules (computational social choice), and kidney exchange algorithms. 
 
 
 ## Brief Bio 
