@@ -4,20 +4,20 @@ I currently work as **Research Staff Member** at **IBM Research (Zürich lab)**.
 
 My research interests lie mainly in the intersection of **formal logic** and **machine learning**.
 
-My current work focuses on **reasoning**, inference mechanisms, automated theorem proving, probabilistic logic, neural-symbolic methods, neural embeddings for logic, deep learning for standard reasoning systems, and reasoning for automated **scientific discovery**.
+My current work focuses on **reasoning**, inference mechanisms, automated theorem proving, probabilistic logic, neural-symbolic methods, neural embeddings for logic, deep learning for standard reasoning systems, and reasoning for **automated scientific discovery**.
 
-Moreover, I worked on knowledge representation and extraction, natural language processing,  preferences representations (in logic, in probability theory and using graphical models), reasoning over preferences, preference aggregation in a multi agent context, voting rules (computational social choice), and kidney exchange algorithms. 
+Moreover, I have worked on knowledge representation and extraction, natural language processing, preference representations (in logic, in probability theory, and using graphical models), reasoning over preferences, preference aggregation in a multi-agent context, voting rules (computational social choice), and kidney exchange algorithms. 
 
 
 ## Brief Bio 
 [Full CV - PDF](cv.pdf)
-* **Jul 2019 – present:**  Research Scientist at IBM Research – Zürich Research Center (Rüschlikon)
-* **Oct 2017 – Jun 2019:**  Research Staff Member at IBM Research – T.J. Watson Research Center
-* **Jul 2016 – Oct 2017:** Post-Doc at IBM Research – T.J.Watson Research Center
+* **Jul 2019 – present:**  Research Scientist at IBM Research – Zürich Research Center (Rüschlikon), Switzerland
+* **Oct 2017 – Jun 2019:**  Research Staff Member at IBM Research – T.J. Watson Research Center, New York, USA
+* **Jul 2016 – Oct 2017:** Post-Doc at IBM Research – T.J.Watson Research Center, New York, USA
 * **Jan 2016 – Jun 2016:** Post-Doc in Computer Science - University of Padua, Italy 
-* **Jan 2013 – Mar 2016:** PhD in Mathematics (Computer Science Area) - University of Padua, Italy
-* **Oct 2010 – Oct 2012:** Master’s degree in mathematics - University of Padua, Italy
-* **Sept 2007 – Oct 2010:** Bachelor’s Degree in mathematics - University of Udine, Italy
+* **Jan 2013 – Mar 2016:** PhD in Mathematics/Computer Science - University of Padua, Italy
+* **Oct 2010 – Oct 2012:** Master’s degree in Mathematics - University of Padua, Italy
+* **Sep 2007 – Oct 2010:** Bachelor’s Degree in Mathematics - University of Udine, Italy
 
 ## Publications
 [Full list of publications](publications.md)
