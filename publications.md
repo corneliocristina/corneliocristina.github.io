@@ -1,4 +1,4 @@
-[<home](index.md)
+[&larr; back](index.md)
 # Publications
 
 ## Open Source Projects:
