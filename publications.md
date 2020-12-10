@@ -15,6 +15,7 @@
 * **Updates and Uncertainty in CP-net**, C. Cornelio, U. Grandi, J. Goldsmith, N. Mattei, F. Rossi and K.B. Venable, Proceedings of the 26th Australasian Joint Conference on Artificial Intelligence, AUAI-13. 
 * **Reasoning with PCP-nets in a Multi-Agent Context**, C. Cornelio, U. Grandi, J. Goldsmith, N. Mattei, F. Rossi and K.B. Venable, Proceedings of the International Conference on Autonomous Agents & Multiagent Systems 2015, AAMAS-15.
 * **Using deceased-donor kidneys to initiate chains of living donor kidney paired donations: algorithm and experimentation**, C. Cornelio, L. Furian, A. Nicolò and F. Rossi, Proceedings of the AAAI/ACM Conference on Artificial Intelligence, Ethics and Society (AIES), 2019.
+* **A Deep Reinforcement Learning Approach to First-Order Logic Theorem Proving**, M. Crouse, I. Abdelaziz, B. Makni, S. Whitehead, C. Cornelio, P. Kapanipathi, K. Srinivas, V. Thost, M. Witbrock, A. Fokoue, Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence, AAAI-21. 
 
 ## Published research extended abstracts:
 * **Dynamic and Probabilistic CP-nets**, C. Cornelio, Proceedings of the Doctoral Program of International Conference on Principles and Practice of Constraint Programming 2013, CP-13. 
