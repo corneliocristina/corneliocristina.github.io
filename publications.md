@@ -1,8 +1,11 @@
 [&larr; back](index.md)
 # Publications
 
-## Open Source Projects:
-* **RuDaS:** **S**ynthetic **Da**tasets for **Ru**le Learning and Evaluation Tools
+## Projects:
+* [DECK (DECeased Kidney) cross-over program:](DECK.md) 
+  * A new algorithm for using deceased-donor kidneys to initiate chains of living donor kidney paired donations
+  * Currently used nationally in Italy
+* Open Source Project - **RuDaS:** **S**ynthetic **Da**tasets for **Ru**le Learning and Evaluation Tools
   * [GitHub repo](https://github.com/IBM/RuDaS)
   * [ArXiv paper](https://arxiv.org/abs/1909.07095)
 
