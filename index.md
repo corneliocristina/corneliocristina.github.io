@@ -19,7 +19,7 @@ Moreover, I have worked on knowledge representation and extraction, natural lang
 * **Sep 2007 – Oct 2010:** Bachelor’s Degree in Mathematics - University of Udine, Italy
 
 ## Publications
-[Full list of publications](publications.md)
+[Full list of publications and projects](publications.md)
 
 ## Contacts
 * **IBM email:** cor AT zurich.ibm.com
