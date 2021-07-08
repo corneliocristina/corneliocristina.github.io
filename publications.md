@@ -1,6 +1,6 @@
 [&larr; back](index.md)
 
-# Publications & Projects
+# Publications &amp; Projects
 
 ## Projects:
 * [DECK (DECeased Kidney) cross-over program:](DECK.md) 
