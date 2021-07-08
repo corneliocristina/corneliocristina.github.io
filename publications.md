@@ -1,4 +1,5 @@
 [&larr; back](index.md)
+
 # Publications & Projects
 
 ## Projects:
