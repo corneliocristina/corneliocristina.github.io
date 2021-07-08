@@ -19,10 +19,9 @@ Our algorithm has two different components:
 * **Cycle detection:** This happen when at time *t* a new pair *P* joins the pool. We find a cycle, when exists, in the current pool *Pool-cycle(t)* composed by all the pairs donor/patient that currently part of the program.
 * **Chain detection:** This happen when at time *t* a new deceased-donor (*DD*) kidney arrives to the waiting list. We find a chain, when exists, starting with the deceased-donor, in the current pool *Pool-chain(t)* composed by all the pairs donor/patient that currently part of the program and all the *UT* patients (patients with unlikely transplantability: difficult to match). A chain will either terminate with a pair and thus returning a living kidney to the deceased-donor waiting list or with an *UT* patient.
  
- <p align="center">
+<p align="center">
 <img src="algorithm_new.png" alt="algorithm_new" width="400"/>
 </p>
-
 (*DD kidney:* kidney from a deceased donor; *K:* kidney; *P pairs:* pair of donor/patient; *UT patients:* patients with unlikely transplantability, difficult to match)
 
 ## Media coverage and some links
