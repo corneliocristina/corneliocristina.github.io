@@ -34,6 +34,7 @@ Our algorithm has two different components:
 ### Press coverage
 * [Il Messaggero](https://www.ilmessaggero.it/salute/medicina/trapianti_prima_volta_paziente_riceve_rene_donatore_morto-3608398.html)
 * [Rai news](https://www.rainews.it/tgr/puglia/articoli/2018/08/pug-trapianto-rete-da-donatore-deceduto-policlinico-bari-metodo-Deck-f7c20e44-b178-445b-8a82-b76bd771acad.html)
+* [Il Gazzettino](https://www.ilgazzettino.it/nordest/padova/trapianti_prima_volta_paziente_riceve_rene_donatore_morto-3608532.html?fbclid=IwAR1pUZ9HLnz6aB11aTWAwDVDcsaGW1uE8eihBMBWlJjovGRO6BmDOmCfgSo)
 * [La Repubblica](https://bari.repubblica.it/cronaca/2020/02/26/news/policlinico_bari_trapiante_rene_a_catena-249631369/)
 * [Il Corriere del Veneto](https://corrieredelveneto.corriere.it/padova/cronaca/18_marzo_15/italia-prima-catena-trapianto-rene-innescata-cadavere-dfa6d26c-285a-11e8-b8f6-0a9b8a188a71.shtml)
 * [Quotidiano sanità](http://www.quotidianosanita.it/scienza-e-farmaci/articolo.php?articolo_id=59945)
