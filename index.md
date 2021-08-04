@@ -1,6 +1,6 @@
 ![Image](me.png)
 
-I currently work as **Research Staff Member** at **IBM Research (Zürich lab)**.
+I currently work as **Researcher** at the **Samsung AI Center** in Cambridge (UK).
 
 My research interests lie mainly in the intersection of **formal logic** and **machine learning**.
 
@@ -10,7 +10,8 @@ Moreover, I have worked on knowledge representation and extraction, natural lang
 
 ## Brief Bio 
 [Full CV - PDF](cv.pdf)
-* **Jul 2019 – present:**  Research Scientist at IBM Research – Zürich Research Center (Rüschlikon), Switzerland
+* **Aug 2021 – present:** Researcher at Samsung AI Center, Cambridge, UK
+* **Jul 2019 – Jul 2021:**  Research Scientist at IBM Research – Zürich Research Center (Rüschlikon), Switzerland
 * **Oct 2017 – Jun 2019:**  Research Staff Member at IBM Research – T.J. Watson Research Center, New York, USA
 * **Jul 2016 – Oct 2017:** Post-Doc at IBM Research – T.J.Watson Research Center, New York, USA
 * **Jan 2016 – Jun 2016:** Post-Doc in Computer Science - University of Padua, Italy 
