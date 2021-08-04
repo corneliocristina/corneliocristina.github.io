@@ -10,7 +10,7 @@ Moreover, I have worked on knowledge representation and extraction, natural lang
 
 ## Brief Bio 
 [Full CV - PDF](cv.pdf)
-* **Aug 2021 – present:** Researcher at Samsung AI Center, Cambridge, UK
+* **Aug 2021 – present:** Researcher at Samsung AI Center (SAIC) - Cambridge, UK
 * **Jul 2019 – Jul 2021:**  Research Scientist at IBM Research – Zürich Research Center (Rüschlikon), Switzerland
 * **Oct 2017 – Jun 2019:**  Research Staff Member at IBM Research – T.J. Watson Research Center, New York, USA
 * **Jul 2016 – Oct 2017:** Post-Doc at IBM Research – T.J.Watson Research Center, New York, USA
