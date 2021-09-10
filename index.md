@@ -23,7 +23,7 @@ Moreover, I have worked on knowledge representation and extraction, natural lang
 [Full list of publications and projects](publications.md)
 
 ## Contacts
-* **IBM email:** cor AT zurich.ibm.com
+* **Work email:** c.cornelio AT samsung.com
 * **Personal email:** corneliocristina AT gmail.com
 
 ## Links
