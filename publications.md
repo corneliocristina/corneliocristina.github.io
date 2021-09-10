@@ -17,18 +17,17 @@
 * **Potential gain of utilizing kidneys from deceased donors to initiate “Chain” Kidney Paired donations: quantification of benefit through a real-world retrospective analysis**, C. Cornelio, L. Furian, F. Neri, A. Nicolò, F. Rossi, P. Rigotti, C. Silvestre., Transpl Int, 2017
 
 ## Conference papers:
+* [**Synthetic Datasets and Evaluation Tools for Inductive Neural Reasoning**](https://arxiv.org/abs/1909.07095), C. Cornelio and V. Thost, Proceedings of the 30th International Conference of Inductive Logic Programming, ILP-21 (2021).
 * [**A Deep Reinforcement Learning Approach to First-Order Logic Theorem Proving**](https://www.aaai.org/AAAI21Papers/AAAI-6310.CrouseM.pdf), M. Crouse, I. Abdelaziz, B. Makni, S. Whitehead, C. Cornelio, P. Kapanipathi, K. Srinivas, V. Thost, M. Witbrock, A. Fokoue, Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence, AAAI-21. 
 * [**Using deceased-donor kidneys to initiate chains of living donor kidney paired donations: algorithm and experimentation**](https://arxiv.org/pdf/1901.02420.pdf), C. Cornelio, L. Furian, A. Nicolò and F. Rossi, Proceedings of the AAAI/ACM Conference on Artificial Intelligence, Ethics and Society (AIES), 2019.
 * [**Reasoning with PCP-nets in a Multi-Agent Context**](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.709.8062&rep=rep1&type=pdf), C. Cornelio, U. Grandi, J. Goldsmith, N. Mattei, F. Rossi and K.B. Venable, Proceedings of the International Conference on Autonomous Agents & Multiagent Systems 2015, AAMAS-15.
 * [**Updates and Uncertainty in CP-net**](https://link.springer.com/chapter/10.1007/978-3-319-03680-9_32), C. Cornelio, U. Grandi, J. Goldsmith, N. Mattei, F. Rossi and K.B. Venable, Proceedings of the 26th Australasian Joint Conference on Artificial Intelligence, AUAI-13. 
 
 ## ArXiv papers:
-* [**A Deep Reinforcement Learning Based Approach to Learning Transferable Proof Guidance Strategies**](https://arxiv.org/abs/1911.02065), M. Crouse, S. Whitehead, I. Abdelaziz, B. Makni, C. Cornelio, P. Kapanipathi, E. Pell, K. Srinivas, V. Thost, M. Witbrock, A. Fokoue, 2019, arXiv:1911.02065
-* [**RuDaS: Synthetic Datasets for Rule Learning and Evaluation Tool**](https://arxiv.org/abs/1909.07095), C. Cornelio, V. Thost, 2019, arXiv:1909.07095
+* [**Integration of Data and Theory for Accelerated Derivable Symbolic Discovery**](https://arxiv.org/abs/2109.01634), C. Cornelio, S. Dash, V. Austel, T. Josephson, J. Goncalves, K. Clarkson, N. Megiddo, B. El Khadir, L. Horesh, CoRRabs 2109.01634, 2021 
 * [**Symbolic Regression using Mixed-Integer Nonlinear Optimization**](https://arxiv.org/abs/2006.06813), V. Austel, C. Cornelio, S. Dash, J. Goncalves, L. Horesh, T. Josephson, N. Megiddo, 2019, arXiv:2006.06813
 * [**Schemaless Queries over Document Tables with Dependencies**](https://arxiv.org/abs/1911.09356), M. Canim, C. Cornelio, A. Iyengar, R. Musa, M. Rodrigez Muro, 2019, arXiv:1911.09356
 * [**Improving Graph Neural Network Representations of Logical Formulae with Subgraph Pooling**](https://arxiv.org/abs/1911.06904), M. Crouse, I. Abdelaziz, C. Cornelio, V. Thost, L. Wu, K. Forbus, A. Fokoue, 2019, arXiv:1911.06904
-* [**Voting with Random Classifiers (VORACE)**](https://arxiv.org/abs/1909.08996), C. Cornelio, M. Donini, A. Loreggia, M.S. Pini, F. Rossi, 2019, arXiv:1909.08996
 * [**Logical conditional preference theories**](https://arxiv.org/abs/1504.06374), C. Cornelio, A. Loreggia, V. Saraswat, 2015, arXiv:1504.06374.
 
 ## Patents:
