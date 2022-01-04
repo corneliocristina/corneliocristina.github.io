@@ -1,13 +1,4 @@
 theme: jekyll-theme-cayman
 title: Cristina Cornelio
 description: Researcher @ Samsung AI Center Cambridge
-preferences:
-  - type: dropdown
-    name: language
-    label: Language
-    description: Choose your preferred language.
-    options:
-      - label: English
-        value: en
-      - label: Italiano
-        value: it
+tagline: Researcher @ Samsung AI Center Cambridge
