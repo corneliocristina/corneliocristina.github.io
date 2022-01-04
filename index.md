@@ -1,6 +1,6 @@
 ![Image](me.png)
 
-I currently work as **Researcher** at the **Samsung AI Center** in Cambridge (UK).
+- I currently work as **Researcher** at the **Samsung AI Center** in Cambridge (UK).
 
 My research interests lie mainly in the intersection of **formal logic** and **machine learning**.
 
