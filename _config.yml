@@ -1,7 +1,3 @@
 theme: jekyll-theme-cayman
 title: Cristina Cornelio
 description: Researcher @ Samsung AI Center Cambridge
-
-url: "https://corneliocristina.github.io" 
-plugins:
-  - jekyll-sitemap
