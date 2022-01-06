@@ -28,8 +28,10 @@ Our algorithm has two different components:
 
 ## Media coverage and some links
 
-* [Announcement of the first deceased donor transplant on March 14, 2018 in Padova - ANSA](https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2018/03/15/in-italia-prima-catena-trapianti-rene-innescata-da-cadavere_82c13bae-a7e3-47d9-b61c-3eb60f891b28.html)
 * [Centro Nazionale Trapianti (National Tranplantation Center): DECK cross-over national program announcement](http://www.trapianti.salute.gov.it/trapianti/dettaglioComunicatiNotizieCnt.jsp?lingua=italiano&area=cnt&menu=media&sottomenu=news&id=484)
+  * [Technical document 1](https://www.trapianti.salute.gov.it/imgs/C_17_cntPubblicazioni_94_allegato.pdf)
+  * [Technical document 2](https://www.trapianti.salute.gov.it/imgs/C_17_cntPubblicazioni_14_allegato.pdf)
+* [Announcement of the first deceased donor transplant on March 14, 2018 in Padova - ANSA](https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2018/03/15/in-italia-prima-catena-trapianti-rene-innescata-da-cadavere_82c13bae-a7e3-47d9-b61c-3eb60f891b28.html)
 
 ### Press coverage
 * [Il Messaggero](https://www.ilmessaggero.it/salute/medicina/trapianti_prima_volta_paziente_riceve_rene_donatore_morto-3608398.html)
