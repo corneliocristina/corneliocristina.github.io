@@ -19,8 +19,13 @@ Moreover, I have worked on knowledge representation and extraction, natural lang
 * **Oct 2010 – Oct 2012:** Master’s degree in Mathematics - University of Padua, Italy
 * **Sep 2007 – Oct 2010:** Bachelor’s Degree in Mathematics - University of Udine, Italy
 
-## Publications
-[Full list of publications and projects](publications.md)
+## Publications & Projects
+[HERE](publications.md) the full list of publications and projects
+
+**Selected projects:**
+
+* [DECK (DECeased Kidney) cross-over program](DECK.md)
+* [AI-Descartes: Automated Scientific Discovery pipeline](Descartes.md)
 
 ## Contacts
 * **Work email:** c.cornelio AT samsung.com
