@@ -24,17 +24,18 @@
 * [**Updates and Uncertainty in CP-net**](https://link.springer.com/chapter/10.1007/978-3-319-03680-9_32), C. Cornelio, U. Grandi, J. Goldsmith, N. Mattei, F. Rossi and K.B. Venable, Proceedings of the 26th Australasian Joint Conference on Artificial Intelligence, AUAI-13. 
 
 ## ArXiv papers:
-* [**Integration of Data and Theory for Accelerated Derivable Symbolic Discovery**](https://arxiv.org/abs/2109.01634), C. Cornelio, S. Dash, V. Austel, T. Josephson, J. Goncalves, K. Clarkson, N. Megiddo, B. El Khadir, L. Horesh, CoRRabs 2109.01634, 2021 
-* [**Symbolic Regression using Mixed-Integer Nonlinear Optimization**](https://arxiv.org/abs/2006.06813), V. Austel, C. Cornelio, S. Dash, J. Goncalves, L. Horesh, T. Josephson, N. Megiddo, 2019, arXiv:2006.06813
+* [**AI-Descartes: Integration of Data and Theory for Accelerated Derivable Symbolic Discovery**](https://arxiv.org/abs/2109.01634), C. Cornelio, S. Dash, V. Austel, T. Josephson, J. Goncalves, K. Clarkson, N. Megiddo, B. El Khadir, L. Horesh, arXiv:2109.01634, 2021 
+* [**Bayesian Experimental Design for Symbolic Discovery**](https://arxiv.org/abs/2211.15860), K. L. Clarkson, C. Cornelio, S. Dash, J. Goncalves, L. Horesh, N. Megiddo, arXiv:2211.15860, 2022
+* * [**Symbolic Regression using Mixed-Integer Nonlinear Optimization**](https://arxiv.org/abs/2006.06813), V. Austel, C. Cornelio, S. Dash, J. Goncalves, L. Horesh, T. Josephson, N. Megiddo, 2019, arXiv:2006.06813
 * [**Schemaless Queries over Document Tables with Dependencies**](https://arxiv.org/abs/1911.09356), M. Canim, C. Cornelio, A. Iyengar, R. Musa, M. Rodrigez Muro, 2019, arXiv:1911.09356
 * [**Improving Graph Neural Network Representations of Logical Formulae with Subgraph Pooling**](https://arxiv.org/abs/1911.06904), M. Crouse, I. Abdelaziz, C. Cornelio, V. Thost, L. Wu, K. Forbus, A. Fokoue, 2019, arXiv:1911.06904
 * [**Logical conditional preference theories**](https://arxiv.org/abs/1504.06374), C. Cornelio, A. Loreggia, V. Saraswat, 2015, arXiv:1504.06374.
 
 ## Patents:
-* **Generative Reasoning for Symbolic Discovery**, C. Cornelio, L. Horesh, V. Pestun, R. Yan, filed on: 10th Feb. 2020
-* **Symbolic Model Discovery based on a combination of Numerical Learning Methods and Reasoning**, C Cornelio, L Horesh, A Fokoue-Nkoutche, Sanjeeb Dash, filed on: 21st Jul. 2020
-* **Problem manipulators for language-independent reasoning**. C. Cornelio, A. Fokoue, A. Pareja, I. Abdelaziz, M. Witbrock, filed on: 29th Apr. 2020
-* **Experimental Design for Symbolic Model Discovery**. L. Horesh, K. Clarkson, C. Cornelio, S. Magliacane, filed on: 21st Apr. 2020
+* [**Generative Reasoning for Symbolic Discovery**](https://patents.google.com/patent/US20220108205A1/en), C. Cornelio, L. Horesh, V. Pestun, R. Yan, filed on: 10th Feb. 2020
+* [**Symbolic Model Discovery based on a combination of Numerical Learning Methods and Reasoning**](https://patents.google.com/patent/US20220027775A1/en), C Cornelio, L Horesh, A Fokoue-Nkoutche, Sanjeeb Dash, filed on: 21st Jul. 2020
+* [**Problem manipulators for language-independent reasoning**](https://patents.google.com/patent/US20210342710A1/en). C. Cornelio, A. Fokoue, A. Pareja, I. Abdelaziz, M. Witbrock, filed on: 29th Apr. 2020
+* [**Experimental Design for Symbolic Model Discovery**](https://patents.google.com/patent/US20210334432A1/en). L. Horesh, K. Clarkson, C. Cornelio, S. Magliacane, filed on: 21st Apr. 2020
 * [**Capturing the global structure logical formulae with graph long short-term memory**](https://patents.google.com/patent/US20210150373A1/en), M. Crouse, I. Abdelaziz, C. Cornelio, V. Thost, L. Wu,  B. Makni, K. Srinivas, A. Fokoue, filed on: 14th Nov. 2019
 * [**Automatic transformation of complex tables in documents into computer understandable structured format and managing dependencies**](https://patents.google.com/patent/US20200334251A1/en), C. Cornelio, M. Canim, R. Musa, M. Rodriguez Muro, A. Iyengar, filed on: 18th Apr. 2019
 * [**Automatic transformation of complex tables in documents into computer understandable structured format with mapped dependencies and providing schema-less query support for searching table data**](https://patents.google.com/patent/US20200334250A1/en), C. Cornelio, M. Canim, R. Musa, M. Rodriguez Muro, A. Iyengar, filed on: 18th Apr. 2019
