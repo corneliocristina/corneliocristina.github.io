@@ -3,6 +3,10 @@
 # Publications &amp; Projects
 
 ## Projects:
+* [AI-Descartes: a pipeline for Automated Scientific Discovery](Descartes.md) 
+  * A novel combination of reasoning and machine learning for a automated scientific discovery pipeline.
+  * [GitHub repo](https://github.com/IBM/AI-Descartes)
+  * [ArXiv paper](https://arxiv.org/abs/2109.01634)
 * [DECK (DECeased Kidney) cross-over program:](DECK.md) 
   * A new algorithm for using deceased-donor kidneys to initiate chains of living donor kidney paired donations
   * Currently used nationally in Italy
