@@ -9,7 +9,7 @@ Work in collaboration with: _L. Horesh, S. Dash, V. Austel, T. Josephson, J. Gon
 
 
 
-## Code and Data
+## Data and Code
 Visit our github repo [HERE](https://github.com/IBM/AI-Descartes).
 
 ## References
