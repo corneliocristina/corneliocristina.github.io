@@ -30,4 +30,4 @@ Patents:
 
 * Invited talk at the [2nd Workshop on Nobel Turing Challenge](https://groups.oist.jp/obu/event/2nd-workshop-nobel-turing-challenge)
   * More info on the Nobel Turing Challenge can be found [HERE](https://www.nature.com/articles/s41540-021-00189-3)
-  * Presentation recording: [Youtube video](https://youtu.be/y-v9QWGzZ8E)
+  * Presentation recording: [YouTube video](https://youtu.be/y-v9QWGzZ8E)
