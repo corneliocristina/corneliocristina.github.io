@@ -2,7 +2,7 @@
 
 # AI-Descartes: a pipeline for Automated Scientific Discovery pipeline
 
-## MORE INFO COMING SOON!
+~~ MORE INFO COMING SOON! ~~
 
 
 
