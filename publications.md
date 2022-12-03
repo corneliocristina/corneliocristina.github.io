@@ -1,4 +1,4 @@
-[&larr; back](index.md)
+[&larr; Home page](index.md)
 
 # Publications &amp; Projects
 
