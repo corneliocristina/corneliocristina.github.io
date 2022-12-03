@@ -1,8 +1,8 @@
 [&larr; Publications](publications.md)
 
-# AI-Descartes: a pipeline for Automated Scientific Discovery pipeline
+# AI-Descartes: a pipeline for Automated Scientific Discovery
 
-~~ MORE INFO COMING SOON! ~~
+~ MORE INFO COMING SOON! ~
 
 
 
