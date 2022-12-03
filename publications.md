@@ -30,7 +30,7 @@
 ## ArXiv papers:
 * [**AI-Descartes: Integration of Data and Theory for Accelerated Derivable Symbolic Discovery**](https://arxiv.org/abs/2109.01634), C. Cornelio, S. Dash, V. Austel, T. Josephson, J. Goncalves, K. Clarkson, N. Megiddo, B. El Khadir, L. Horesh, arXiv:2109.01634, 2021 
 * [**Bayesian Experimental Design for Symbolic Discovery**](https://arxiv.org/abs/2211.15860), K. L. Clarkson, C. Cornelio, S. Dash, J. Goncalves, L. Horesh, N. Megiddo, arXiv:2211.15860, 2022
-* * [**Symbolic Regression using Mixed-Integer Nonlinear Optimization**](https://arxiv.org/abs/2006.06813), V. Austel, C. Cornelio, S. Dash, J. Goncalves, L. Horesh, T. Josephson, N. Megiddo, 2019, arXiv:2006.06813
+* [**Symbolic Regression using Mixed-Integer Nonlinear Optimization**](https://arxiv.org/abs/2006.06813), V. Austel, C. Cornelio, S. Dash, J. Goncalves, L. Horesh, T. Josephson, N. Megiddo, 2019, arXiv:2006.06813
 * [**Schemaless Queries over Document Tables with Dependencies**](https://arxiv.org/abs/1911.09356), M. Canim, C. Cornelio, A. Iyengar, R. Musa, M. Rodrigez Muro, 2019, arXiv:1911.09356
 * [**Improving Graph Neural Network Representations of Logical Formulae with Subgraph Pooling**](https://arxiv.org/abs/1911.06904), M. Crouse, I. Abdelaziz, C. Cornelio, V. Thost, L. Wu, K. Forbus, A. Fokoue, 2019, arXiv:1911.06904
 * [**Logical conditional preference theories**](https://arxiv.org/abs/1504.06374), C. Cornelio, A. Loreggia, V. Saraswat, 2015, arXiv:1504.06374.
