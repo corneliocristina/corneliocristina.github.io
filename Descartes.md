@@ -2,6 +2,8 @@
 
 # AI-Descartes: a pipeline for Automated Scientific Discovery
 
+Work in collaboration with: _L. Horesh, S. Dash, V. Austel, T. Josephson, J. Goncalves, K. Clarkson, N. Megiddo_
+
 ~ MORE INFO COMING SOON! ~
 
 
