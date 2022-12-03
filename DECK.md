@@ -1,6 +1,8 @@
 [&larr; Publications](publications.md)
 
-# DECK (DECeased Kidney) cross-over program:
+# DECK (DECeased Kidney) cross-over program
+Work in collaboration with: _A. Nicolò, L. Furian, C. Silvestre, F. Rossi, P. Rigotti, E. Cozzi and F. Neri_
+
 ## Using deceased-donor kidneys to initiate chains of living donor kidney paired donations, a new algorithm currently used nationally in Italy.
 
 We designed a flexible algorithm that exploits deceased donor kidneys to initiate chains of living donor kidney paired donations, combining deceased and living donor allocation mechanisms to improve the quantity and quality of kidney transplants. 
