@@ -1,4 +1,4 @@
-[&larr; back](publications.md)
+[&larr; Publications](publications.md)
 
 # DECK (DECeased Kidney) cross-over program:
 ## Using deceased-donor kidneys to initiate chains of living donor kidney paired donations, a new algorithm currently used nationally in Italy.
