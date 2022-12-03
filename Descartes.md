@@ -21,7 +21,6 @@ Papers:
 Patents:
 * [**Generative Reasoning for Symbolic Discovery**](https://patents.google.com/patent/US20220108205A1/en), C. Cornelio, L. Horesh, V. Pestun, R. Yan, filed on: 10th Feb. 2020
 * [**Symbolic Model Discovery based on a combination of Numerical Learning Methods and Reasoning**](https://patents.google.com/patent/US20220027775A1/en), C Cornelio, L Horesh, A Fokoue-Nkoutche, Sanjeeb Dash, filed on: 21st Jul. 2020
-* [**Problem manipulators for language-independent reasoning**](https://patents.google.com/patent/US20210342710A1/en). C. Cornelio, A. Fokoue, A. Pareja, I. Abdelaziz, M. Witbrock, filed on: 29th Apr. 2020
 * [**Experimental Design for Symbolic Model Discovery**](https://patents.google.com/patent/US20210334432A1/en). L. Horesh, K. Clarkson, C. Cornelio, S. Magliacane, filed on: 21st Apr. 2020
 
 
