@@ -1,3 +1,7 @@
+<header>
+  <!-- TL;DR -->
+</header>
+
 [&larr; Publications](publications.md)
 
 # AI-Descartes: a pipeline for Automated Scientific Discovery
