@@ -1,6 +1,3 @@
-<title> 
-AI-Descartes <\title>
-
 
 [&larr; Publications](publications.md)
 
