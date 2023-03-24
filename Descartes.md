@@ -1,5 +1,5 @@
-layout: page
-title: "AI-Descartes"
+<title> 
+AI-Descartes <\title>
 
 
 [&larr; Publications](publications.md)
