@@ -1,15 +1,4 @@
-<div id="header">
-            <!-- Inner -->
-            <div class="inner">
-                <header>
-                    <h1><a href="index.html">Cristina</a></h1>
-                    <hr>
-                    <p>Research Scientist</p>
-                </header>
-            </div>
-        
-        
- ![Image](figures/me.png)
+![Image](figures/me.png)
 
 I currently work as **Research Scientist** at the **Samsung AI Center (SAIC)** in Cambridge (UK).
 
