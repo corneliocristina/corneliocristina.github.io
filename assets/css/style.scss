@@ -4,6 +4,10 @@
 
 
 .page-header{
-background-image: src("https://github.com/corneliocristina/corneliocristina.github.io/blob/main/figures/gradientBG.jpg");
+background-image: url("https://github.com/corneliocristina/corneliocristina.github.io/blob/main/figures/gradientBG.jpg");
+}
+
+.page-template-default:not(.home) header.header {
+	background-image: url("https://github.com/corneliocristina/corneliocristina.github.io/blob/main/figures/gradientBG.jpg") !important;
 }
 
