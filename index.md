@@ -1,4 +1,4 @@
-![Image](me.png)
+![Image](figures/me.png)
 
 I currently work as **Research Scientist** at the **Samsung AI Center (SAIC)** in Cambridge (UK).
 
@@ -9,7 +9,7 @@ My current work focuses on **neuro-symbolic integrations**, **reasoning**, autom
 Moreover, I have worked on knowledge representation and extraction, natural language processing, preference representations (in logic, probability theory, and using graphical models), reasoning over preferences, preference aggregation in a multi-agent context, voting rules (computational social choice), and kidney exchange algorithms. 
 
 ## Brief Bio 
-[Full CV - PDF](cv.pdf)
+[Full CV - PDF](documents/cv_short.pdf)
 * **Aug 2021 – present:** Researcher at Samsung AI Center (SAIC) - Cambridge, UK
 * **Jul 2019 – Jul 2021:**  Research Scientist at IBM Research – Zürich Research Center (Rüschlikon), Switzerland
 * **Oct 2017 – Jun 2019:**  Research Staff Member at IBM Research – T.J. Watson Research Center, New York, USA
