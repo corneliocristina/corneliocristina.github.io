@@ -1,3 +1,8 @@
+layout: page
+title: "AI-Descartes"
+permalink: "https://corneliocristina.github.io/Descartes.html"
+
+
 <header>
   <!-- TL;DR -->
 </header>
