@@ -1,18 +1,5 @@
-[&larr; Home page](index.md)
+# Publications
 
-# Publications &amp; Projects
-
-## Projects:
-* [AI-Descartes: a pipeline for Automated Scientific Discovery](https://ai-descartes.github.io/) 
-  * A novel combination of reasoning and machine learning for a automated scientific discovery pipeline.
-  * [GitHub repo](https://github.com/IBM/AI-Descartes)
-  * [ArXiv paper](https://arxiv.org/abs/2109.01634)
-* [DECK (DECeased Kidney) cross-over program:](DECK.md) 
-  * A new algorithm for using deceased-donor kidneys to initiate chains of living donor kidney paired donations
-  * Currently used nationally in Italy
-* Open Source Project - **RuDaS:** **S**ynthetic **Da**tasets for **Ru**le Learning and Evaluation Tools
-  * [GitHub repo](https://github.com/IBM/RuDaS)
-  * [ArXiv paper](https://arxiv.org/abs/1909.07095)
 
 ## Journal papers:
 * [**Voting with random classifiers (VORACE): theoretical and experimental analysis**](https://link.springer.com/article/10.1007/s10458-021-09504-y), C. Cornelio, M. Donini, A. Loreggia, M.S. Pini, F. Rossi, Journal of Autonomous Agents and Multi-Agent Systems (JAAMAS), 2021
