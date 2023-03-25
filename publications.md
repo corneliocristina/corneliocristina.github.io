@@ -1,6 +1,19 @@
 # Publications
 
-
+## Projects
+* **AI-Descartes** - A tool for Automated Scientific Discovery
+  * A novel combination of reasoning and machine learning for a automated scientific discovery pipeline.
+  * More info at the [AI-Descarted website](https://ai-descartes.github.io/) 
+* **NASR** - **N**eural **A**ttention for **S**ymbolic **R**easoning 
+  * ICLR23 - *Learning where and when to reason in neuro-symbolic inference*
+  * More info on the [NASR webpage](https://github.com/corneliocristina/NASR) 
+* **DECK** - **DEC**eased **K**idney exchange program
+  * A new algorithm for using deceased-donor kidneys to initiate chains of living donor kidney paired donations
+  * Currently used nationally in Italy
+  * More info on the [DECK webpage](DECK.md)
+* **RuDaS** - **S**ynthetic **Da**tasets for **Ru**le Learning and Evaluation Tools
+  * More info on the [RuDaS webpage](RuDaS.md)
+  
 ## Journal papers:
 * [**Voting with random classifiers (VORACE): theoretical and experimental analysis**](https://link.springer.com/article/10.1007/s10458-021-09504-y), C. Cornelio, M. Donini, A. Loreggia, M.S. Pini, F. Rossi, Journal of Autonomous Agents and Multi-Agent Systems (JAAMAS), 2021
 * [**Deceased-donor-initiated chains: first report of a successful deliberate case and its ethical implications**](https://www.researchgate.net/profile/Lucrezia-Furian/publication/332541761_Deceased_Donor-initiated_Chains_First_Report_of_a_Successful_Deliberate_Case_and_Its_Ethical_Implications/links/5f4f5919a6fdcc9879c02cab/Deceased-Donor-initiated-Chains-First-Report-of-a-Successful-Deliberate-Case-and-Its-Ethical-Implications.pdf), L. Furian, C. Cornelio, C. Silvestre, F. Rossi, P. Rigotti, E. Cozzi, F. Neri and A. Nicolò, Transplantation, 2019.
@@ -8,6 +21,7 @@
 * **Potential gain of utilizing kidneys from deceased donors to initiate “Chain” Kidney Paired donations: quantification of benefit through a real-world retrospective analysis**, C. Cornelio, L. Furian, F. Neri, A. Nicolò, F. Rossi, P. Rigotti, C. Silvestre., Transpl Int, 2017
 
 ## Conference papers:
+* [**Learning where and when to reason in neuro-symbolic inference**](https://arxiv.org/abs/1909.07095), C. Cornelio, J. Stuehmer, S.X. Hu, T. Hospedales, Proceedings of the 11th International Conference on Learning Representations (ICLR) - *notable-top-5%*, 2023
 * [**Synthetic Datasets and Evaluation Tools for Inductive Neural Reasoning**](https://arxiv.org/abs/1909.07095), C. Cornelio and V. Thost, Proceedings of the 30th International Conference of Inductive Logic Programming, ILP-21 (2021).
 * [**A Deep Reinforcement Learning Approach to First-Order Logic Theorem Proving**](https://www.aaai.org/AAAI21Papers/AAAI-6310.CrouseM.pdf), M. Crouse, I. Abdelaziz, B. Makni, S. Whitehead, C. Cornelio, P. Kapanipathi, K. Srinivas, V. Thost, M. Witbrock, A. Fokoue, Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence, AAAI-21. 
 * [**Using deceased-donor kidneys to initiate chains of living donor kidney paired donations: algorithm and experimentation**](https://arxiv.org/pdf/1901.02420.pdf), C. Cornelio, L. Furian, A. Nicolò and F. Rossi, Proceedings of the AAAI/ACM Conference on Artificial Intelligence, Ethics and Society (AIES), 2019.
@@ -23,6 +37,9 @@
 * [**Logical conditional preference theories**](https://arxiv.org/abs/1504.06374), C. Cornelio, A. Loreggia, V. Saraswat, 2015, arXiv:1504.06374.
 
 ## Patents:
+* **Neuro-Symbolic system for constraint-based error correction**, C. Cornelio, J. Stuehmer, T. Hospedales, 2023
+* **Logical and Composite Models**, L. Horesh, B. El Kadir, S. Dash, K. Clarkson, C. Cornelio, 2023
+* **Symbolic Model Discovery Rectification**, L. Horesh, C. Cornelio, S. Dash, J.P. Goncalves, K. L. Clarkson, N. Megiddo, V. Austel, B. El Khadir, 2023
 * [**Generative Reasoning for Symbolic Discovery**](https://patents.google.com/patent/US20220108205A1/en), C. Cornelio, L. Horesh, V. Pestun, R. Yan, filed on: 10th Feb. 2020
 * [**Symbolic Model Discovery based on a combination of Numerical Learning Methods and Reasoning**](https://patents.google.com/patent/US20220027775A1/en), C Cornelio, L Horesh, A Fokoue-Nkoutche, Sanjeeb Dash, filed on: 21st Jul. 2020
 * [**Problem manipulators for language-independent reasoning**](https://patents.google.com/patent/US20210342710A1/en). C. Cornelio, A. Fokoue, A. Pareja, I. Abdelaziz, M. Witbrock, filed on: 29th Apr. 2020
