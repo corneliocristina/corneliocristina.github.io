@@ -21,7 +21,7 @@
 * **Potential gain of utilizing kidneys from deceased donors to initiate “Chain” Kidney Paired donations: quantification of benefit through a real-world retrospective analysis**, C. Cornelio, L. Furian, F. Neri, A. Nicolò, F. Rossi, P. Rigotti, C. Silvestre., Transpl Int, 2017
 
 ## Conference papers:
-* [**Learning where and when to reason in neuro-symbolic inference**](https://arxiv.org/abs/1909.07095), C. Cornelio, J. Stuehmer, S.X. Hu, T. Hospedales, Proceedings of the 11th International Conference on Learning Representations (ICLR) - *notable-top-5%*, 2023
+* [**Learning where and when to reason in neuro-symbolic inference**](https://openreview.net/forum?id=en9V5F8PR-), C. Cornelio, J. Stuehmer, S.X. Hu, T. Hospedales, Proceedings of the 11th International Conference on Learning Representations (ICLR) - *notable-top-5%*, 2023
 * [**Synthetic Datasets and Evaluation Tools for Inductive Neural Reasoning**](https://arxiv.org/abs/1909.07095), C. Cornelio and V. Thost, Proceedings of the 30th International Conference of Inductive Logic Programming, ILP-21 (2021).
 * [**A Deep Reinforcement Learning Approach to First-Order Logic Theorem Proving**](https://www.aaai.org/AAAI21Papers/AAAI-6310.CrouseM.pdf), M. Crouse, I. Abdelaziz, B. Makni, S. Whitehead, C. Cornelio, P. Kapanipathi, K. Srinivas, V. Thost, M. Witbrock, A. Fokoue, Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence, AAAI-21. 
 * [**Using deceased-donor kidneys to initiate chains of living donor kidney paired donations: algorithm and experimentation**](https://arxiv.org/pdf/1901.02420.pdf), C. Cornelio, L. Furian, A. Nicolò and F. Rossi, Proceedings of the AAAI/ACM Conference on Artificial Intelligence, Ethics and Society (AIES), 2019.
