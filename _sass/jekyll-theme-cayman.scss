@@ -110,8 +110,8 @@ a {
   text-align: center;
   background-color: $header-bg-color;
   background-image: url(../../figures/gradientBG.jpg);
-  background-size: 200% 100%;
-  background-position: left;
+  background-size: 100% 100%;
+  background-position: center;
 
   @include large {
     padding: 5rem 6rem;
