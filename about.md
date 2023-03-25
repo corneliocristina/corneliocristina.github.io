@@ -1,3 +1,10 @@
+[<img height="30" width="30" src="figures/twitter.svg" />](https://twitter.com/Cristina__C) &ensp;
+[<img height="30" width="30" src="figures/googlescholar.svg" />](https://scholar.google.com/citations?user=EP9lmrcAAAAJ&hl=en) &ensp;
+[<img height="30" width="30" src="figures/linkedin.svg" />](https://www.linkedin.com/in/cristina-cornelio-545a8a36/en-us) &ensp;
+[<img height="30" width="30" src="figures/semanticscholar.svg" />](https://www.semanticscholar.org/author/Cristina-Cornelio/2470518) &ensp;
+[<img height="30" width="30" src="figures/dblp.svg" />](https://dblp.uni-trier.de/pid/137/3340.html)
+
+
 <img align="left" src="figures/me.png" width="33%" style="margin-right:30px">
 I'm a **Research Scientist** at **Samsung AI** in Cambridge (UK).
 
@@ -10,7 +17,7 @@ Moreover, I have worked on knowledge representation and extraction, natural lang
 
 ## Brief Bio 
 
-Short-CV PDF &rarr; [<img height="30" width="30" src="figures/pdf.svg" />](documents/cv_short.pdf)
+Short CV &rarr; [<img height="30" width="30" src="figures/pdf.svg" />](documents/cv_short.pdf)
 
 * **2021 – present:** Research Scientist at Samsung AI (SAIC) – *Cambridge, UK*
 * **2016 - 2021:** Research Staff Member at IBM Research 
@@ -24,10 +31,3 @@ Short-CV PDF &rarr; [<img height="30" width="30" src="figures/pdf.svg" />](docum
 ## Contacts
 * **Work email:** c.cornelio AT samsung.com
 * **Personal email:** corneliocristina AT gmail.com
-
-## Links
-[<img height="30" width="30" src="figures/twitter.svg" />](https://twitter.com/Cristina__C) &ensp;
-[<img height="30" width="30" src="figures/googlescholar.svg" />](https://scholar.google.com/citations?user=EP9lmrcAAAAJ&hl=en) &ensp;
-[<img height="30" width="30" src="figures/linkedin.svg" />](https://www.linkedin.com/in/cristina-cornelio-545a8a36/en-us) &ensp;
-[<img height="30" width="30" src="figures/semanticscholar.svg" />](https://www.semanticscholar.org/author/Cristina-Cornelio/2470518) &ensp;
-[<img height="30" width="30" src="figures/dblp.svg" />](https://dblp.uni-trier.de/pid/137/3340.html)
