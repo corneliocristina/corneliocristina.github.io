@@ -7,14 +7,13 @@ I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK).
 * If you want to know more about my work please check the <a href="https://corneliocristina.github.io/publications.html" style="display: inline" class="button"> 📖 Publications and 💻 Projects</a> page.
 
 
-
 ## Selected Projects
 
 * AI-Descartes: a pipeline for Automated Scientific Discovery
   * A novel combination of reasoning and machine learning for a automated scientific discovery pipeline.
-  * [AI-Descarted website](https://ai-descartes.github.io/) 
-  * [GitHub repo](https://github.com/IBM/AI-Descartes)
-  * [ArXiv paper](https://arxiv.org/abs/2109.01634)
+  * More info at the [AI-Descarted website](https://ai-descartes.github.io/) 
+  * GitHub repo &rarr; [<img height="30" width="30" src="figures/github.svg" />](https://github.com/IBM/AI-Descartes)
+  * ArXiv paper &rarr; [<img height="30" width="30" src="figures/arxiv.svg" />](https://arxiv.org/abs/2109.01634)
 * DECK (DECeased Kidney)
   * A new algorithm for using deceased-donor kidneys to initiate chains of living donor kidney paired donations
   * Currently used nationally in Italy
@@ -23,3 +22,13 @@ I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK).
 ## News [updated on 25/03/23]
 
 
+* **AI-Descartes** - A tool for Automated Scientific Discovery
+  * A novel combination of reasoning and machine learning for a automated scientific discovery pipeline.
+  * More info at the [AI-Descarted website](https://ai-descartes.github.io/) 
+* **NASR** - **N**eural **A**ttention for **S**ymbolic **R**easoning 
+  * ICLR23 - *Learning where and when to reason in neuro-symbolic inference*
+  * More info on the [NASR webpage](https://github.com/corneliocristina/NASR) 
+* **DECK** - **DEC**eased **K**idney exchange program
+  * A new algorithm for using deceased-donor kidneys to initiate chains of living donor kidney paired donations
+  * Currently used nationally in Italy
+  * More info on the [DECK webpage](DECK.md)
