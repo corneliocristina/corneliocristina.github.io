@@ -1,5 +1,3 @@
-[&larr; Publications](publications.md)
-
 # DECK (DECeased Kidney) cross-over program
 Work in collaboration with: _A. Nicolò, L. Furian, C. Silvestre, F. Rossi, P. Rigotti, E. Cozzi and F. Neri_
 
