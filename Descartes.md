@@ -1,3 +1,6 @@
+---
+title: AI-Descartes
+---
 
 [&larr; Publications](publications.md)
 
