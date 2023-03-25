@@ -25,7 +25,7 @@ Moreover, I have worked on knowledge representation and extraction, natural lang
 **Selected projects:**
 
 * [DECK (DECeased Kidney) cross-over program](DECK.md)
-* [AI-Descartes: Automated Scientific Discovery pipeline](Descartes.md)
+* [AI-Descartes: Automated Scientific Discovery pipeline](https://ai-descartes.github.io/)
 
 ## Contacts
 * **Work email:** c.cornelio AT samsung.com
