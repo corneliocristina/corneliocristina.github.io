@@ -1,5 +1,5 @@
 ---
-title: [Cristina Cornelio](https://corneliocristina.github.io)
+title: Cristina Cornelio
 ---
 
 # UNDER CONSTRUCTION
