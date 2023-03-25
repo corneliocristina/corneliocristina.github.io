@@ -13,8 +13,7 @@ My current work focuses on **neuro-symbolic integrations**, **reasoning**, autom
 Moreover, I have worked on knowledge representation and extraction, natural language processing, preference representations (in logic, probability theory, and using graphical models), reasoning over preferences, preference aggregation in a multi-agent context, voting rules (computational social choice), and kidney exchange algorithms. 
 <br clear="left"/>
 
-## Brief Bio 
-[Short CV - PDF](documents/cv_short.pdf)
+## Brief Bio ([Short CV <img height="30" width="30" src="figures/pdf.svg" />](documents/cv_short.pdf))
 * **2021 – present:** Research Scientist at Samsung AI (SAIC) – *Cambridge, UK*
 * **2016 - 2021:** Research Staff Member at IBM Research – *T.J.Watson Research Center, New York, USA & Zürich Research Center (Rüschlikon), Switzerland*
 * **2016:** PhD in Mathematics (Computer Science focus area) – *University of Padua, Italy*
