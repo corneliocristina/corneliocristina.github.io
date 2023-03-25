@@ -19,16 +19,8 @@ I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK).
   * Currently used nationally in Italy
   * [DECK webpage](DECK.md)
 
-## News [updated on 25/03/23]
+## News 
 
-
-* **AI-Descartes** - A tool for Automated Scientific Discovery
-  * A novel combination of reasoning and machine learning for a automated scientific discovery pipeline.
-  * More info at the [AI-Descarted website](https://ai-descartes.github.io/) 
-* **NASR** - **N**eural **A**ttention for **S**ymbolic **R**easoning 
-  * ICLR23 - *Learning where and when to reason in neuro-symbolic inference*
-  * More info on the [NASR webpage](https://github.com/corneliocristina/NASR) 
-* **DECK** - **DEC**eased **K**idney exchange program
-  * A new algorithm for using deceased-donor kidneys to initiate chains of living donor kidney paired donations
-  * Currently used nationally in Italy
-  * More info on the [DECK webpage](DECK.md)
+* **January 2023** - "Learning where and when to reason in neuro-symbolic inference" accepted as *notable-top-5%* at ICLR 2023 🎉 
+* **January 2023** - Invited talk "Derivable Scientific Discovery" at the IBM Neuro-Symbolic AI Workshop
+* **November 2022** - Invited talk "Derivable Scientific Discovery" at the 2nd Workshop on Nobel Turing Challenge
