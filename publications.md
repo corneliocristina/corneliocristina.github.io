@@ -3,7 +3,7 @@
 # Publications &amp; Projects
 
 ## Projects:
-* [AI-Descartes: a pipeline for Automated Scientific Discovery](Descartes.md) 
+* [AI-Descartes: a pipeline for Automated Scientific Discovery](https://ai-descartes.github.io/) 
   * A novel combination of reasoning and machine learning for a automated scientific discovery pipeline.
   * [GitHub repo](https://github.com/IBM/AI-Descartes)
   * [ArXiv paper](https://arxiv.org/abs/2109.01634)
