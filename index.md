@@ -1,6 +1,7 @@
 ---
 title: Cristina Cornelio
 ---
+
 ## Welcome to my website! 
 I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK). 
 * If you want to find out more about me please check the <a href="https://corneliocristina.github.io/about.html" style="display: inline" class="button"> 👤 About me</a> page.
