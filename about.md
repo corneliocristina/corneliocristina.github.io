@@ -1,7 +1,7 @@
 
-I currently work as **Research Scientist** at the **Samsung AI Center (SAIC)** in Cambridge (UK).
-<img align="left" src="figures/me.png" width="300px">
-<img align="left" src="figures/me.png" width="33%">
+I'm a **Research Scientist** at **Samsung AI** in Cambridge (UK).
+
+<img align="left" src="figures/me.png" width="33%" padding=px>
 
 
 
