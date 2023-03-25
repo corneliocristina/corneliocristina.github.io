@@ -13,7 +13,9 @@ Moreover, I have worked on knowledge representation and extraction, natural lang
 Short-CV PDF &rarr; [<img height="30" width="30" src="figures/pdf.svg" />](documents/cv_short.pdf)
 
 * **2021 – present:** Research Scientist at Samsung AI (SAIC) – *Cambridge, UK*
-* **2016 - 2021:** Research Staff Member at IBM Research – *T.J.Watson Research Center, New York, USA & Zürich Research Center (Rüschlikon), Switzerland*
+* **2016 - 2021:** Research Staff Member at IBM Research 
+  * *T.J.Watson Research Center, New York, USA*
+  * *Zürich Research Center (Rüschlikon), Switzerland*
 * **2016:** PhD in Mathematics (Computer Science focus area) – *University of Padua, Italy*
 * **2012:** Master’s degree in Mathematics – *University of Padua, Italy*
 * **Oct 2010:** Bachelor’s Degree in Mathematics – *University of Udine, Italy*
