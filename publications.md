@@ -2,7 +2,7 @@
 title: Cristina Cornelio
 ---
 
-# Publications & Projects
+# Projects, Publications & Patents
 
 ## Projects
 * **AI-Descartes** - A tool for Automated Scientific Discovery
@@ -40,18 +40,7 @@ title: Cristina Cornelio
 * [**Improving Graph Neural Network Representations of Logical Formulae with Subgraph Pooling**](https://arxiv.org/abs/1911.06904), M. Crouse, I. Abdelaziz, C. Cornelio, V. Thost, L. Wu, K. Forbus, A. Fokoue, 2019, arXiv:1911.06904
 * [**Logical conditional preference theories**](https://arxiv.org/abs/1504.06374), C. Cornelio, A. Loreggia, V. Saraswat, 2015, arXiv:1504.06374.
 
-## Patents:
-* **Neuro-Symbolic system for constraint-based error correction**, C. Cornelio, J. Stuehmer, T. Hospedales, 2023
-* **Logical and Composite Models**, L. Horesh, B. El Kadir, S. Dash, K. Clarkson, C. Cornelio, 2023
-* **Symbolic Model Discovery Rectification**, L. Horesh, C. Cornelio, S. Dash, J.P. Goncalves, K. L. Clarkson, N. Megiddo, V. Austel, B. El Khadir, 2023
-* [**Generative Reasoning for Symbolic Discovery**](https://patents.google.com/patent/US20220108205A1/en), C. Cornelio, L. Horesh, V. Pestun, R. Yan, filed on: 10th Feb. 2020
-* [**Symbolic Model Discovery based on a combination of Numerical Learning Methods and Reasoning**](https://patents.google.com/patent/US20220027775A1/en), C Cornelio, L Horesh, A Fokoue-Nkoutche, Sanjeeb Dash, filed on: 21st Jul. 2020
-* [**Problem manipulators for language-independent reasoning**](https://patents.google.com/patent/US20210342710A1/en). C. Cornelio, A. Fokoue, A. Pareja, I. Abdelaziz, M. Witbrock, filed on: 29th Apr. 2020
-* [**Experimental Design for Symbolic Model Discovery**](https://patents.google.com/patent/US20210334432A1/en). L. Horesh, K. Clarkson, C. Cornelio, S. Magliacane, filed on: 21st Apr. 2020
-* [**Capturing the global structure logical formulae with graph long short-term memory**](https://patents.google.com/patent/US20210150373A1/en), M. Crouse, I. Abdelaziz, C. Cornelio, V. Thost, L. Wu,  B. Makni, K. Srinivas, A. Fokoue, filed on: 14th Nov. 2019
-* [**Automatic transformation of complex tables in documents into computer understandable structured format and managing dependencies**](https://patents.google.com/patent/US20200334251A1/en), C. Cornelio, M. Canim, R. Musa, M. Rodriguez Muro, A. Iyengar, filed on: 18th Apr. 2019
-* [**Automatic transformation of complex tables in documents into computer understandable structured format with mapped dependencies and providing schema-less query support for searching table data**](https://patents.google.com/patent/US20200334250A1/en), C. Cornelio, M. Canim, R. Musa, M. Rodriguez Muro, A. Iyengar, filed on: 18th Apr. 2019
-* [**Method for automatic transformation of complex tables in documents (PDF, Word) into computer understandable structured format and providing schemaless query support Data Extraction**](https://patents.google.com/patent/US20200334249A1/en), C. Cornelio, M. Canim, R. Musa, M. Rodriguez Muro, A. Iyengar, filed on: 18th Apr. 2019
+
 
 ## Workshop papers:
 * [**Improving Graph Neural Network Representations of Logical Formulae with Subgraph Pooling**](https://arxiv.org/pdf/1911.06904.pdf), M. Crouse, I. Abdelaziz, C. Cornelio, V. Thost, L. Wu, K. Forbus and A. Fokoue, The Second International Workshop on Deep Learning on Graphs: Methods and Applications 2020 (DLG-KDD’20).
@@ -68,3 +57,15 @@ title: Cristina Cornelio
 * [**Models for Conditional Preferences as extensions of CP-nets**](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/viewFile/11010/11171), C. Cornelio, Proceedings of the Twenty-Fourth International Joint Conference on Artificial Intelligence (extended abstract), IJCAI-15. 
 * [**Dynamic and Probabilistic CP-nets**](https://www.math.unipd.it/~cornelio/documents/CPDP.pdf), C. Cornelio, Proceedings of the Doctoral Program of International Conference on Principles and Practice of Constraint Programming 2013, CP-13. 
 
+## Patents:
+* **Neuro-Symbolic system for constraint-based error correction**, C. Cornelio, J. Stuehmer, T. Hospedales, 2023
+* **Logical and Composite Models**, L. Horesh, B. El Kadir, S. Dash, K. Clarkson, C. Cornelio, 2023
+* **Symbolic Model Discovery Rectification**, L. Horesh, C. Cornelio, S. Dash, J.P. Goncalves, K. L. Clarkson, N. Megiddo, V. Austel, B. El Khadir, 2023
+* [**Generative Reasoning for Symbolic Discovery**](https://patents.google.com/patent/US20220108205A1/en), C. Cornelio, L. Horesh, V. Pestun, R. Yan, filed on: 10th Feb. 2020
+* [**Symbolic Model Discovery based on a combination of Numerical Learning Methods and Reasoning**](https://patents.google.com/patent/US20220027775A1/en), C Cornelio, L Horesh, A Fokoue-Nkoutche, Sanjeeb Dash, filed on: 21st Jul. 2020
+* [**Problem manipulators for language-independent reasoning**](https://patents.google.com/patent/US20210342710A1/en). C. Cornelio, A. Fokoue, A. Pareja, I. Abdelaziz, M. Witbrock, filed on: 29th Apr. 2020
+* [**Experimental Design for Symbolic Model Discovery**](https://patents.google.com/patent/US20210334432A1/en). L. Horesh, K. Clarkson, C. Cornelio, S. Magliacane, filed on: 21st Apr. 2020
+* [**Capturing the global structure logical formulae with graph long short-term memory**](https://patents.google.com/patent/US20210150373A1/en), M. Crouse, I. Abdelaziz, C. Cornelio, V. Thost, L. Wu,  B. Makni, K. Srinivas, A. Fokoue, filed on: 14th Nov. 2019
+* [**Automatic transformation of complex tables in documents into computer understandable structured format and managing dependencies**](https://patents.google.com/patent/US20200334251A1/en), C. Cornelio, M. Canim, R. Musa, M. Rodriguez Muro, A. Iyengar, filed on: 18th Apr. 2019
+* [**Automatic transformation of complex tables in documents into computer understandable structured format with mapped dependencies and providing schema-less query support for searching table data**](https://patents.google.com/patent/US20200334250A1/en), C. Cornelio, M. Canim, R. Musa, M. Rodriguez Muro, A. Iyengar, filed on: 18th Apr. 2019
+* [**Method for automatic transformation of complex tables in documents (PDF, Word) into computer understandable structured format and providing schemaless query support Data Extraction**](https://patents.google.com/patent/US20200334249A1/en), C. Cornelio, M. Canim, R. Musa, M. Rodriguez Muro, A. Iyengar, filed on: 18th Apr. 2019
