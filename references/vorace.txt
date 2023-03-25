@@ -1,0 +1,10 @@
+@article{vorace2021,
+  title={Voting with random classifiers (VORACE): theoretical and experimental analysis},
+  author={Cornelio, Cristina and Donini, Michele and Loreggia, Andrea and Pini, Maria Silvia and Rossi, Francesca},
+  journal={Autonomous Agents and Multi-Agent Systems},
+  volume={35},
+  number={2},
+  pages={22},
+  year={2021},
+  publisher={Springer}
+}
