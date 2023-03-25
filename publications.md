@@ -1,4 +1,4 @@
-# Publications
+# Publications & Projects
 
 ## Projects
 * **AI-Descartes** - A tool for Automated Scientific Discovery
