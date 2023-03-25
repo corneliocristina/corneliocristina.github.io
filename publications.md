@@ -1,3 +1,7 @@
+---
+title: Cristina Cornelio
+---
+
 # Publications & Projects
 
 ## Projects
