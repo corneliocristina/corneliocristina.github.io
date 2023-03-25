@@ -1,8 +1,3 @@
-<a href="{{ site.github.repository_url }}" class="btn">Home</a>
-        <a href="{{ site.github.repository_url }}" class="btn">About</a>
-      <a href="{{ site.github.repository_url }}" class="btn">Projects</a>
-      <a href="{{ site.github.repository_url }}" class="btn">Publications</a>
-      
 <img align="left" src="figures/me.png" width="33%" style="margin-right:30px">
 I'm a **Research Scientist** at **Samsung AI** in Cambridge (UK).
 
