@@ -1,7 +1,7 @@
 
 I'm a **Research Scientist** at **Samsung AI** in Cambridge (UK).
 
-<img align="left" src="figures/me.png" width="33%" padding=px>
+<img align="left" src="figures/me.png" width="33%" style="margin-right:10%">
 
 
 
