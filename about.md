@@ -1,9 +1,6 @@
 
-I'm a **Research Scientist** at **Samsung AI** in Cambridge (UK).
-
 <img align="left" src="figures/me.png" width="33%" style="margin-right:30px">
-
-
+I'm a **Research Scientist** at **Samsung AI** in Cambridge (UK).
 
 My research interests lie mainly in the intersection of **formal logic** and **machine learning**.
 
