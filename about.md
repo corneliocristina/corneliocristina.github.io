@@ -1,12 +1,12 @@
-[<img align="right" height="30" width="30" src="figures/dblp.svg" />](https://dblp.uni-trier.de/pid/137/3340.html)
+[<img align="right" height="40" width="40" src="figures/dblp.svg" />](https://dblp.uni-trier.de/pid/137/3340.html)
 <img align="right" height="15" width="15" src="figures/transparent.png" /> 
-[<img align="right" height="30" width="30" src="figures/semanticscholar.svg" />](https://www.semanticscholar.org/author/Cristina-Cornelio/2470518) 
+[<img align="right" height="40" width="40" src="figures/semanticscholar.svg" />](https://www.semanticscholar.org/author/Cristina-Cornelio/2470518) 
 <img align="right" height="15" width="15" src="figures/transparent.png" /> 
-[<img align="right" height="30" width="30" src="figures/linkedin.svg" />](https://www.linkedin.com/in/cristina-cornelio-545a8a36/en-us) 
+[<img align="right" height="40" width="40" src="figures/linkedin.svg" />](https://www.linkedin.com/in/cristina-cornelio-545a8a36/en-us) 
 <img align="right" height="15" width="15" src="figures/transparent.png" /> 
-[<img align="right" height="30" width="30" src="figures/googlescholar.svg" />](https://scholar.google.com/citations?user=EP9lmrcAAAAJ&hl=en) 
+[<img align="right" height="40" width="40" src="figures/googlescholar.svg" />](https://scholar.google.com/citations?user=EP9lmrcAAAAJ&hl=en) 
 <img align="right" height="15" width="15" src="figures/transparent.png" /> 
-[<img align="right" height="30" width="30" src="figures/twitter.svg" />](https://twitter.com/Cristina__C) 
+[<img align="right" height="40" width="40" src="figures/twitter.svg" />](https://twitter.com/Cristina__C) 
 
 
 <br clear="left"/>
