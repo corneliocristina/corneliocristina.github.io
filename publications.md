@@ -5,7 +5,7 @@ title: Cristina Cornelio
 # [Projects](#projects), [Publications](#publications) & [Patents](#patents)
 
 
- <a id="projects"></a>
+ <a class=cri_section id="projects"></a>
 ## Projects  
 * **AI-Descartes** - A tool for Automated Scientific Discovery
   * A novel combination of reasoning and machine learning for a automated scientific discovery pipeline.
@@ -20,7 +20,7 @@ title: Cristina Cornelio
 * **RuDaS** - **S**ynthetic **Da**tasets for **Ru**le Learning and Evaluation Tools
   * More info on the [RuDaS webpage](RuDaS.md)
  
-<a id="publications"></a>
+<a class=cri_section id="publications"></a>
 ## Journal papers
 * [**Voting with random classifiers (VORACE): theoretical and experimental analysis**](https://link.springer.com/article/10.1007/s10458-021-09504-y), C. Cornelio, M. Donini, A. Loreggia, M.S. Pini, F. Rossi, Journal of Autonomous Agents and Multi-Agent Systems (JAAMAS), 2021. [📚 <img height="15" width="50" src="figures/bibtex.png" />](references/vorace.txt)
 * [**Deceased-donor-initiated chains: first report of a successful deliberate case and its ethical implications**](https://www.researchgate.net/profile/Lucrezia-Furian/publication/332541761_Deceased_Donor-initiated_Chains_First_Report_of_a_Successful_Deliberate_Case_and_Its_Ethical_Implications/links/5f4f5919a6fdcc9879c02cab/Deceased-Donor-initiated-Chains-First-Report-of-a-Successful-Deliberate-Case-and-Its-Ethical-Implications.pdf), L. Furian, C. Cornelio, C. Silvestre, F. Rossi, P. Rigotti, E. Cozzi, F. Neri and A. Nicolò, Transplantation, 2019.
@@ -59,7 +59,7 @@ title: Cristina Cornelio
 * [**Models for Conditional Preferences as extensions of CP-nets**](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/viewFile/11010/11171), C. Cornelio, Proceedings of the Twenty-Fourth International Joint Conference on Artificial Intelligence (extended abstract), IJCAI-15. 
 * [**Dynamic and Probabilistic CP-nets**](https://www.math.unipd.it/~cornelio/documents/CPDP.pdf), C. Cornelio, Proceedings of the Doctoral Program of International Conference on Principles and Practice of Constraint Programming 2013, CP-13. 
 
-<a id="patents"></a>
+<a class=cri_section id="patents"></a>
 ## Patents
 * **Neuro-Symbolic system for constraint-based error correction**, C. Cornelio, J. Stuehmer, T. Hospedales, 2023
 * **Logical and Composite Models**, L. Horesh, B. El Kadir, S. Dash, K. Clarkson, C. Cornelio, 2023
