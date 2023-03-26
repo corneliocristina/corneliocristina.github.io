@@ -2,10 +2,10 @@
 title: Cristina Cornelio
 ---
 
-# [Projects](#projects), [Publications](#publications) & [Patents](#patents)
+# <a class=cri_section href=#projects>Projects</a>, [Publications](#publications) & [Patents](#patents)
 
 
- <a class=cri_section id="projects"></a>
+ <a id="projects"></a>
 ## Projects  
 * **AI-Descartes** - A tool for Automated Scientific Discovery
   * A novel combination of reasoning and machine learning for a automated scientific discovery pipeline.
