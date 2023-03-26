@@ -2,7 +2,7 @@
 title: Cristina Cornelio
 ---
 
-# <a class=cri_section href=#projects>Projects</a>, [Publications](#publications) & [Patents](#patents)
+<h1> <a class=cri_section href=#projects>Projects</a>, [Publications](#publications) & [Patents](#patents) </h1> 
 
 
  <a id="projects"></a>
