@@ -1,8 +1,4 @@
-<div style="text-align: right">
- 
-[<img height="30" width="30" src="figures/twitter.svg" />](https://twitter.com/Cristina__C) &ensp; [<img height="30" width="30" src="figures/googlescholar.svg" />](https://scholar.google.com/citations?user=EP9lmrcAAAAJ&hl=en) &ensp; [<img height="30" width="30" src="figures/linkedin.svg" />](https://www.linkedin.com/in/cristina-cornelio-545a8a36/en-us) &ensp; [<img height="30" width="30" src="figures/semanticscholar.svg" />](https://www.semanticscholar.org/author/Cristina-Cornelio/2470518) &ensp; [<img height="30" width="30" src="figures/dblp.svg" />](https://dblp.uni-trier.de/pid/137/3340.html)
- 
-</div>
+p>. [<img height="30" width="30" src="figures/twitter.svg" />](https://twitter.com/Cristina__C) &ensp; [<img height="30" width="30" src="figures/googlescholar.svg" />](https://scholar.google.com/citations?user=EP9lmrcAAAAJ&hl=en) &ensp; [<img height="30" width="30" src="figures/linkedin.svg" />](https://www.linkedin.com/in/cristina-cornelio-545a8a36/en-us) &ensp; [<img height="30" width="30" src="figures/semanticscholar.svg" />](https://www.semanticscholar.org/author/Cristina-Cornelio/2470518) &ensp; [<img height="30" width="30" src="figures/dblp.svg" />](https://dblp.uni-trier.de/pid/137/3340.html)
  
 <img align="left" src="figures/me.png" width="33%" style="margin-right:30px">
 
