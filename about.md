@@ -1,4 +1,4 @@
-<div align="right">
+<div style="text-align: right">
  
 [<img height="30" width="30" src="figures/twitter.svg" />](https://twitter.com/Cristina__C) &ensp; [<img height="30" width="30" src="figures/googlescholar.svg" />](https://scholar.google.com/citations?user=EP9lmrcAAAAJ&hl=en) &ensp; [<img height="30" width="30" src="figures/linkedin.svg" />](https://www.linkedin.com/in/cristina-cornelio-545a8a36/en-us) &ensp; [<img height="30" width="30" src="figures/semanticscholar.svg" />](https://www.semanticscholar.org/author/Cristina-Cornelio/2470518) &ensp; [<img height="30" width="30" src="figures/dblp.svg" />](https://dblp.uni-trier.de/pid/137/3340.html)
  
@@ -8,7 +8,7 @@
 
 I'm a **Research Scientist** at **Samsung AI** in Cambridge (UK).
 
-My research interests lie mainly in the intersection of **formal logic** and **machine learning**.
+My research interests lie mainly in the intersection of formal **logic** and **machine learning**.
 
 My current work focuses on neuro-symbolic integrations, reasoning, automated theorem proving, and automated scientific discovery.
 
