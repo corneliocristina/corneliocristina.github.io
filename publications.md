@@ -4,7 +4,9 @@ title: Cristina Cornelio
 
 # [Projects](#projects), [Publications](#publications) & [Patents](#patents)
 
-## Projects <p id="projects"> </p>
+<div id="projects">
+ 
+## Projects  
 * **AI-Descartes** - A tool for Automated Scientific Discovery
   * A novel combination of reasoning and machine learning for a automated scientific discovery pipeline.
   * More info at the [AI-Descarted website](https://ai-descartes.github.io/) 
@@ -17,6 +19,8 @@ title: Cristina Cornelio
   * More info on the [DECK webpage](DECK.md)
 * **RuDaS** - **S**ynthetic **Da**tasets for **Ru**le Learning and Evaluation Tools
   * More info on the [RuDaS webpage](RuDaS.md)
+ 
+ </div>
   
 ## Journal papers <p id="publications"> </p>
 * [**Voting with random classifiers (VORACE): theoretical and experimental analysis**](https://link.springer.com/article/10.1007/s10458-021-09504-y), C. Cornelio, M. Donini, A. Loreggia, M.S. Pini, F. Rossi, Journal of Autonomous Agents and Multi-Agent Systems (JAAMAS), 2021. [📚 <img height="15" width="50" src="figures/bibtex.png" />](references/vorace.txt)
@@ -65,6 +69,6 @@ title: Cristina Cornelio
 * [**Problem manipulators for language-independent reasoning**](https://patents.google.com/patent/US20210342710A1/en). C. Cornelio, A. Fokoue, A. Pareja, I. Abdelaziz, M. Witbrock, filed on: 29th Apr. 2020
 * [**Experimental Design for Symbolic Model Discovery**](https://patents.google.com/patent/US20210334432A1/en). L. Horesh, K. Clarkson, C. Cornelio, S. Magliacane, filed on: 21st Apr. 2020
 * [**Capturing the global structure logical formulae with graph long short-term memory**](https://patents.google.com/patent/US20210150373A1/en), M. Crouse, I. Abdelaziz, C. Cornelio, V. Thost, L. Wu,  B. Makni, K. Srinivas, A. Fokoue, filed on: 14th Nov. 2019
-* [**Automatic transformation of complex tables in documents into computer understandable structured format and managing dependencies**](https://patents.google.com/patent/US20200334251A1/en), C. Cornelio, M. Canim, R. Musa, M. Rodriguez Muro, A. Iyengar, filed on: 18th Apr. 2019
-* [**Automatic transformation of complex tables in documents into computer understandable structured format with mapped dependencies and providing schema-less query support for searching table data**](https://patents.google.com/patent/US20200334250A1/en), C. Cornelio, M. Canim, R. Musa, M. Rodriguez Muro, A. Iyengar, filed on: 18th Apr. 2019
-* [**Method for automatic transformation of complex tables in documents (PDF, Word) into computer understandable structured format and providing schemaless query support Data Extraction**](https://patents.google.com/patent/US20200334249A1/en), C. Cornelio, M. Canim, R. Musa, M. Rodriguez Muro, A. Iyengar, filed on: 18th Apr. 2019
+* [**Automatic transformation of complex tables in documents into computer understandable structured format and managing dependencies**](https://patents.google.com/patent/US20200334251A1/en), M. Canim, C. Cornelio, A. Iyengar, R. Musa, M. Rodriguez Muro, filed on: 18th Apr. 2019
+* [**Automatic transformation of complex tables in documents into computer understandable structured format with mapped dependencies and providing schema-less query support for searching table data**](https://patents.google.com/patent/US20200334250A1/en), M. Canim, C. Cornelio, A. Iyengar, R. Musa, M. Rodriguez Muro, filed on: 18th Apr. 2019
+* [**Method for automatic transformation of complex tables in documents (PDF, Word) into computer understandable structured format and providing schemaless query support data extraction**](https://patents.google.com/patent/US20200334249A1/en), M. Canim, C. Cornelio, A. Iyengar, R. Musa, M. Rodriguez Muro, filed on: 18th Apr. 2019
