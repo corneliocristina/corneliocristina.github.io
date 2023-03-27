@@ -54,9 +54,7 @@ I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK).
             </ul>
             <p align="center">  &rarr; <a href="https://ai-descartes.github.io/"> AI-Descarted website </a> &larr; </p> 
       </td>
-      
       <td> </td>
-
       <td> 
             <p align="center"> <img align="center" width="300" src="figures/algorithm_new.png" alt="algorithm_new"/> </p> 
             <h3 align="center"> DECK </h3>
