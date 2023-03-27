@@ -8,7 +8,6 @@
 <img align="right" height="15" width="15" src="figures/transparent.png" /> 
 [<img align="right" height="40" width="40" src="figures/twitter.svg" />](https://twitter.com/Cristina__C) 
 
-
 <br clear="left"/>
 
 <img align="left" src="figures/me.png" width="33%" style="margin-right:30px">
