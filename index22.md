@@ -17,9 +17,9 @@ I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK).
       <td> <b> DECK </b> - DECeased Kidney cross-over program  </td>
    </tr>
    <tr>
-      <td> <img align="center" src="figures/algorithm_new.png" alt="algorithm_new" width="400"/> </td>
+      <td> <img align="center" width="200" src="figures/algorithm_new.png" alt="algorithm_new" width="400"/> </td>
       <td> </td>
-      <td> <img align="center" src="figures/algorithm_new.png" alt="algorithm_new" width="400"/> </td>
+      <td> <img align="center" width="200" src="figures/algorithm_new.png" alt="algorithm_new" width="400"/> </td>
    </tr>
    <tr>
       <td> 
