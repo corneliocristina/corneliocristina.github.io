@@ -22,9 +22,9 @@ I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK).
       <td> <p align="center"> DECeased Kidney cross-over program </p> </td>
    </tr>
    <tr>
-      <td> <img align="center" width="200" src="figures/algorithm_new.png" alt="algorithm_new"/> </td>
+      <td> <p align="center"> <img align="center" width="200" src="figures/algorithm_new.png" alt="algorithm_new"/> </p> </td>
       <td> </td>
-      <td> <img align="center" width="200" src="figures/algorithm_new.png" alt="algorithm_new"/> </td>
+      <td> <p align="center"> <img align="center" width="200" src="figures/algorithm_new.png" alt="algorithm_new"/> </p> </td>
    </tr>
    <tr>
       <td> 
@@ -41,7 +41,7 @@ I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK).
       </td>
    </tr>   
    <tr>
-      <td> <p align="center"> :arrow_right: <a href="https://ai-descartes.github.io/"> AI-Descarted website </a> :arrow_left:</p> </td>
+      <td> <p align="center">  &rarr; <a href="https://ai-descartes.github.io/"> AI-Descarted website </a> &larr; </p> </td>
       <td> </td>
       <td> <p align="center"> &rarr; <a href="https://corneliocristina.github.io/DECK.html"> DECK webpage </a> &larr; </p> </td>
    </tr>
