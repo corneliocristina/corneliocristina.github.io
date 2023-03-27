@@ -41,9 +41,9 @@ I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK).
       </td>
    </tr>   
    <tr>
-      <td> <p align="center"> <a href="https://ai-descartes.github.io/"> AI-Descarted website </a></p> </td>
+      <td> <p align="center"> :arrow_right: <a href="https://ai-descartes.github.io/"> AI-Descarted website </a> :arrow_left:</p> </td>
       <td> </td>
-      <td> <p align="center"> <a href="https://corneliocristina.github.io/DECK.html"> DECK webpage </a></p> </td>
+      <td> <p align="center"> &rarr; <a href="https://corneliocristina.github.io/DECK.html"> DECK webpage </a> &larr; </p> </td>
    </tr>
 </table>
 
