@@ -4,7 +4,7 @@ title: Cristina Cornelio
 
 ## ✨ Welcome to my website! 
 I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK). 
-* <a href="https://corneliocristina.github.io/about.html" style="display: inline" class="button"> 👤 About me</a> &larr; If you want to find out more about me.
+* <a href="https://corneliocristina.github.io/about.html" style="display: inline" > 👤 About me</a> &larr; If you want to find out more about me.
 * <a href="https://corneliocristina.github.io/publications.html" style="display: inline" class="button"> 📖 Publications & 💻 Projects</a> &larr; If you want to know more about my work.
 
 
@@ -36,9 +36,9 @@ I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK).
    </td>
  </tr>   
  <tr>
-    <td> [AI-Descarted website](https://ai-descartes.github.io/) </td>
+    <td> <a href="https://ai-descartes.github.io/"> AI-Descarted website </a> </td>
     <td> </td>
-    <td> [DECK webpage](DECK.md) </td>
+    <td> <a href="https://corneliocristina.github.io/DECK.html"> DECK webpage </a> </td>
  </tr>
 </table>
 
