@@ -12,14 +12,14 @@ I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK).
 
 <table border=none>
    <tr>
+      <td> <p align="center"> <img align="center" width="300" src="figures/Figure1.png" alt="algorithm_new"/> </p> </td>
+      <td> </td>
+      <td> <p align="center"> <img align="center" width="300" src="figures/algorithm_new.png" alt="algorithm_new"/> </p> </td>
+   </tr>
+   <tr>
       <td> <h3 align="center" > AI-Descartes </h3>  </td>
       <td> </td>
       <td> <h3 align="center"> DECK </h3> </td>
-   </tr>
-   <tr>
-      <td> <p align="center"> <img align="center" width="200" src="figures/Figure1.png" alt="algorithm_new"/> </p> </td>
-      <td> </td>
-      <td> <p align="center"> <img align="center" width="200" src="figures/algorithm_new.png" alt="algorithm_new"/> </p> </td>
    </tr>
    <tr>
       <td> 
