@@ -12,57 +12,24 @@ I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK).
 
 <table>
    <tr>
-      <td> <p align="center"> <img align="center" width="300" src="figures/Figure1.png" alt="algorithm_new"/> </p> </td>
-      <td> </td>
-      <td> <p align="center"> <img align="center" width="300" src="figures/algorithm_new.png" alt="algorithm_new"/> </p> </td>
-   </tr>
-   <tr>
-      <td> <h3 align="center" > AI-Descartes </h3>  </td>
-      <td> </td>
-      <td> <h3 align="center"> DECK </h3> </td>
-   </tr>
-   <tr>
-      <td> 
-         <ul>
-            <li> A novel combination of reasoning and machine learning for an automated scientific discovery pipeline. </li>
-            <li> Published in Nature Communications. </li>
-         </ul>
-      </td>
-      <td> </td>
-      <td> 
-         <ul>
-            <li> A new algorithm for using deceased-donor kidneys to initiate chains of living donor kidney paired donations. </li>
-            <li> Currently used nationally in Italy. </li>
-         </ul>
-      </td>
-   </tr>   
-   <tr>
-      <td> <p align="center">  &rarr; <a href="https://ai-descartes.github.io/"> AI-Descarted website </a> &larr; </p> </td>
-      <td> </td>
-      <td> <p align="center"> &rarr; <a href="https://corneliocristina.github.io/DECK.html"> DECK webpage </a> &larr; </p> </td>
-   </tr>
-</table>
-
-<table>
-   <tr>
       <td>
             <p align="center"> <img align="center" width="300" src="figures/Figure1.png" alt="algorithm_new"/> </p> 
             <h3 align="center" > AI-Descartes </h3>
+         <p align="center">  &rarr; <a href="https://ai-descartes.github.io/"> Visit the website </a> &larr; </p>
             <ul>
                <li> A novel combination of reasoning and machine learning for an automated scientific discovery pipeline. </li>
                <li> Published in Nature Communications. </li>
-            </ul>
-            <p align="center">  &rarr; <a href="https://ai-descartes.github.io/"> AI-Descarted website </a> &larr; </p> 
+            </ul> 
       </td>
       <td> </td>
       <td> 
             <p align="center"> <img align="center" width="300" src="figures/algorithm_new.png" alt="algorithm_new"/> </p> 
             <h3 align="center"> DECK </h3>
+            <p align="center"> &rarr; <a href="https://corneliocristina.github.io/DECK.html"> Visit the webpage </a> &larr; </p>
             <ul>
                <li> A new algorithm for using deceased-donor kidneys to initiate chains of living donor kidney paired donations. </li>
                <li> Currently used nationally in Italy. </li>
          </ul>
-         <p align="center"> &rarr; <a href="https://corneliocristina.github.io/DECK.html"> DECK webpage </a> &larr; </p>
       </td>
    </tr>
 </table>
