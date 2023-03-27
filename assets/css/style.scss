@@ -2,5 +2,8 @@
 ---
 @import "{{ site.theme }}";
 
-table {border: none;}
+table{
+  border: none;
+  border-spacing:0;
+}
 
