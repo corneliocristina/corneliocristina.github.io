@@ -9,7 +9,7 @@ title: Cristina Cornelio
 ## Projects  
 * **AI-Descartes** - A tool for Automated Scientific Discovery
   * A novel combination of reasoning and machine learning for a automated scientific discovery pipeline.
-  * More info at the [AI-Descarted website](https://ai-descartes.github.io/) 
+  * More info on the [AI-Descarted website](https://ai-descartes.github.io/) 
 * **NASR** - **N**eural **A**ttention for **S**ymbolic **R**easoning 
   * ICLR23 - *Learning where and when to reason in neuro-symbolic inference*
   * More info on the [NASR webpage](https://github.com/corneliocristina/NASR) 
