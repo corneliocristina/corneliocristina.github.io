@@ -32,7 +32,7 @@ I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK).
       <td> 
          <ul>
             <li> A new algorithm for using deceased-donor kidneys to initiate chains of living donor kidney paired donations. </li>
-            <li> Currently used nationally in Italy </li>
+            <li> Currently used nationally in Italy. </li>
          </ul>
       </td>
    </tr>   
