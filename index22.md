@@ -12,9 +12,14 @@ I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK).
 
 <table border="1">
    <tr>
-      <td> <b> AI-Descartes </b> - a pipeline for Automated Scientific Discovery  </td>
+      <td> <p align="center"> <b> AI-Descartes </b> </p> </td>
       <td> </td>
-      <td> <b> DECK </b> - DECeased Kidney cross-over program  </td>
+      <td> <p align="center"> <b> DECK </b> </p> </td>
+   </tr>
+   <tr>
+      <td> <p align="center"> a pipeline for Automated Scientific Discovery </p> </td>
+      <td> </td>
+      <td> <p align="center"> DECeased Kidney cross-over program </p> </td>
    </tr>
    <tr>
       <td> <img align="center" width="200" src="figures/algorithm_new.png" alt="algorithm_new" width="400"/> </td>
@@ -36,9 +41,9 @@ I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK).
       </td>
    </tr>   
    <tr>
-      <td> <a href="https://ai-descartes.github.io/"> AI-Descarted website </a> </td>
+      <td> <p align="center"> <a href="https://ai-descartes.github.io/"> AI-Descarted website </a></p> </td>
       <td> </td>
-      <td> <a href="https://corneliocristina.github.io/DECK.html"> DECK webpage </a> </td>
+      <td> <p align="center"> <a href="https://corneliocristina.github.io/DECK.html"> DECK webpage </a></p> </td>
    </tr>
 </table>
 
