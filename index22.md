@@ -12,9 +12,9 @@ I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK).
 
 <table border="1">
    <tr>
-      <td> <p align="center"> <b> AI-Descartes </b> </p> </td>
+      <td> <h3 align="center" > AI-Descartes </h3>  </td>
       <td> </td>
-      <td> <p align="center"> <b> DECK </b> </p> </td>
+      <td> <h2 align="center"> DECK </h2> </td>
    </tr>
    <tr>
       <td> <p align="center"> a pipeline for Automated Scientific Discovery </p> </td>
