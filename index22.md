@@ -13,10 +13,12 @@ I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK).
 <table border="0">
  <tr>
   <td> <b> AI-Descartes </b> - a pipeline for Automated Scientific Discovery  </td>
+  <td></td>
   <td> <b> DECK </b> - DECeased Kidney cross-over program  </td>
  </tr>
  <tr>
   <td> <img align="center" src="figures/algorithm_new.png" alt="algorithm_new" width="400"/> </td>
+  <td></td>
   <td> <img align="center" src="figures/algorithm_new.png" alt="algorithm_new" width="400"/> </td>
  </tr>
  
@@ -26,6 +28,7 @@ I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK).
        <li> A novel combination of reasoning and machine learning for a automated scientific discovery pipeline. </li>
      <ul/>
   </td>
+   <td></td>
   <td> 
      <ul>
        <li> A new algorithm for using deceased-donor kidneys to initiate chains of living donor kidney paired donations. </li>
@@ -36,6 +39,7 @@ I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK).
    
   <tr>
   <td> [AI-Descarted website](https://ai-descartes.github.io/) </td>
+   <td></td>
   <td> [DECK webpage](DECK.md) </td>
  </tr>
    
