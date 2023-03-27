@@ -9,6 +9,7 @@ I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK).
 
 
 ## Selected Projects
+
 <table border="0">
  <tr>
   <td> <b> AI-Descartes: a pipeline for Automated Scientific Discovery </b> </td>
