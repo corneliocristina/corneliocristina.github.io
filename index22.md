@@ -10,16 +10,11 @@ I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK).
 
 ## Selected Projects
 
-<table border="1">
+<table border=none>
    <tr>
       <td> <h3 align="center" > AI-Descartes </h3>  </td>
       <td> </td>
-      <td> <h2 align="center"> DECK </h2> </td>
-   </tr>
-   <tr>
-      <td> <p align="center"> a pipeline for Automated Scientific Discovery </p> </td>
-      <td> </td>
-      <td> <p align="center"> DECeased Kidney cross-over program </p> </td>
+      <td> <h3 align="center"> DECK </h3> </td>
    </tr>
    <tr>
       <td> <p align="center"> <img align="center" width="200" src="figures/algorithm_new.png" alt="algorithm_new"/> </p> </td>
@@ -29,7 +24,7 @@ I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK).
    <tr>
       <td> 
          <ul>
-            <li> A novel combination of reasoning and machine learning for a automated scientific discovery pipeline. </li>
+            <li> A novel combination of reasoning and machine learning for an automated scientific discovery pipeline. </li>
          </ul>
       </td>
       <td> </td>
