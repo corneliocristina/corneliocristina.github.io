@@ -11,35 +11,35 @@ I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK).
 ## Selected Projects
 
 <table border="0">
- <tr>
-    <td> <b> AI-Descartes </b> - a pipeline for Automated Scientific Discovery  </td>
-    <td> </td>
-    <td> <b> DECK </b> - DECeased Kidney cross-over program  </td>
- </tr>
- <tr>
-  <td> <img align="center" src="figures/algorithm_new.png" alt="algorithm_new" width="400"/> </td>
-  <td> </td>
-  <td> <img align="center" src="figures/algorithm_new.png" alt="algorithm_new" width="400"/> </td>
- </tr>
- <tr>
- <td> 
-    <ul>
-        <li> A novel combination of reasoning and machine learning for a automated scientific discovery pipeline. </li>
-    <ul/>
-  </td>
-  <td> </td>
-  <td> 
-     <ul>
-        <li> A new algorithm for using deceased-donor kidneys to initiate chains of living donor kidney paired donations. </li>
-        <li> Currently used nationally in Italy </li>
-     </ul>
-   </td>
- </tr>   
- <tr>
-    <td> <a href="https://ai-descartes.github.io/"> AI-Descarted website </a> </td>
-    <td> </td>
-    <td> <a href="https://corneliocristina.github.io/DECK.html"> DECK webpage </a> </td>
- </tr>
+   <tr>
+      <td> <b> AI-Descartes </b> - a pipeline for Automated Scientific Discovery  </td>
+      <td> </td>
+      <td> <b> DECK </b> - DECeased Kidney cross-over program  </td>
+   </tr>
+   <tr>
+      <td> <img align="center" src="figures/algorithm_new.png" alt="algorithm_new" width="400"/> </td>
+      <td> </td>
+      <td> <img align="center" src="figures/algorithm_new.png" alt="algorithm_new" width="400"/> </td>
+   </tr>
+   <tr>
+      <td> 
+         <ul>
+            <li> A novel combination of reasoning and machine learning for a automated scientific discovery pipeline. </li>
+         </ul>
+      </td>
+      <td> </td>
+      <td> 
+         <ul>
+            <li> A new algorithm for using deceased-donor kidneys to initiate chains of living donor kidney paired donations. </li>
+            <li> Currently used nationally in Italy </li>
+         </ul>
+      </td>
+   </tr>   
+   <tr>
+      <td> <a href="https://ai-descartes.github.io/"> AI-Descarted website </a> </td>
+      <td> </td>
+      <td> <a href="https://corneliocristina.github.io/DECK.html"> DECK webpage </a> </td>
+   </tr>
 </table>
 
 
