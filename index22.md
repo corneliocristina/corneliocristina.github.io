@@ -9,15 +9,23 @@ I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK).
 
 
 ## Selected Projects
-
-* **AI-Descartes: a pipeline for Automated Scientific Discovery**
-  * A novel combination of reasoning and machine learning for a automated scientific discovery pipeline.
+<table border="0">
+ <tr>
+  <td> **AI-Descartes: a pipeline for Automated Scientific Discovery** </td>
+  <td> **DECK: DECeased Kidney cross-over program** </td>
+ </tr>
+ <tr>
+  <td>   * A novel combination of reasoning and machine learning for a automated scientific discovery pipeline.
   * More info on the [AI-Descarted website](https://ai-descartes.github.io/) 
-  
-* **DECK: DECeased Kidney cross-over program**
+   </td>
+  <td> 
   * A new algorithm for using deceased-donor kidneys to initiate chains of living donor kidney paired donations
   * Currently used nationally in Italy
   * More info on the [DECK webpage](DECK.md)
+    </td>
+ </tr>
+</table>
+
 
 ## News 
 
