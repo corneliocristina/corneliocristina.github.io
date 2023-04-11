@@ -64,7 +64,8 @@ title: Cristina Cornelio
 <a id="patents"></a>
 ## Patents
 * **Neuro-Symbolic system for constraint-based error correction**, C. Cornelio, J. Stuehmer, T. Hospedales, 2023
-* **Logical and Composite Models**, L. Horesh, B. El Kadir, S. Dash, K. Clarkson, C. Cornelio, 2023
+* **Background Theory-Based Method for Refinement and Evaluation of Functional Models Extracted from Numerical Data**, Lior Horesh, C. Cornelio, Bachir El Khadir, Sanjeeb Dash, Joao P. Goncalves, Kenneth Lee Clarkson, 2023
+* **Logical and Statistical Composite Models**, L. Horesh, B. El Kadir, S. Dash, K. Clarkson, C. Cornelio, 2023
 * **Symbolic Model Discovery Rectification**, L. Horesh, C. Cornelio, S. Dash, J.P. Goncalves, K. L. Clarkson, N. Megiddo, V. Austel, B. El Khadir, 2023
 * [**Generative Reasoning for Symbolic Discovery**](https://patents.google.com/patent/US20220108205A1/en), C. Cornelio, L. Horesh, V. Pestun, R. Yan, filed on: 10th Feb. 2020
 * [**Symbolic Model Discovery based on a combination of Numerical Learning Methods and Reasoning**](https://patents.google.com/patent/US20220027775A1/en), C Cornelio, L Horesh, A Fokoue-Nkoutche, Sanjeeb Dash, filed on: 21st Jul. 2020
