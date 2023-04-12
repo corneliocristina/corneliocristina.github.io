@@ -9,7 +9,7 @@ title: Cristina Cornelio
 ## Projects  
 * **AI-Descartes** - A tool for Automated Scientific Discovery
   * A novel combination of reasoning and machine learning for a automated scientific discovery pipeline.
-  * Published in [Nature Communications](https://www.nature.com/articles/s41467-023-37236-y#MOESM1)
+  * Published in [Nature Communications](https://www.nature.com/articles/s41467-023-37236-y)
   * More info on the [AI-Descarted website](https://ai-descartes.github.io/) 
 * **NASR** - **N**eural **A**ttention for **S**ymbolic **R**easoning 
   * ICLR23 - *Learning where and when to reason in neuro-symbolic inference*
@@ -23,7 +23,7 @@ title: Cristina Cornelio
  
 <a id="publications"></a>
 ## Journal papers
-* [**Combining data and theory for derivable scientific discovery with AI-Descartes**](https://www.nature.com/articles/s41467-023-37236-y#MOESM1), [PDF](https://rdcu.be/c9IAY), C. Cornelio, S. Dash, V. Austel, T. Josephson, J. Goncalves, K. Clarkson, N. Megiddo, B. El Khadir, L. Horesh, Nature Communications, 2023 
+* [**Combining data and theory for derivable scientific discovery with AI-Descartes**](https://www.nature.com/articles/s41467-023-37236-y), [PDF](https://rdcu.be/c9IAY), C. Cornelio, S. Dash, V. Austel, T. Josephson, J. Goncalves, K. Clarkson, N. Megiddo, B. El Khadir, L. Horesh, Nature Communications, 2023 
 * [**Voting with random classifiers (VORACE): theoretical and experimental analysis**](https://link.springer.com/article/10.1007/s10458-021-09504-y), C. Cornelio, M. Donini, A. Loreggia, M.S. Pini, F. Rossi, Journal of Autonomous Agents and Multi-Agent Systems (JAAMAS), 2021. [📚 <img height="15" width="50" src="figures/bibtex.png" />](references/vorace.txt)
 * [**Deceased-donor-initiated chains: first report of a successful deliberate case and its ethical implications**](https://www.researchgate.net/profile/Lucrezia-Furian/publication/332541761_Deceased_Donor-initiated_Chains_First_Report_of_a_Successful_Deliberate_Case_and_Its_Ethical_Implications/links/5f4f5919a6fdcc9879c02cab/Deceased-Donor-initiated-Chains-First-Report-of-a-Successful-Deliberate-Case-and-Its-Ethical-Implications.pdf), L. Furian, C. Cornelio, C. Silvestre, F. Rossi, P. Rigotti, E. Cozzi, F. Neri and A. Nicolò, Transplantation, 2019.
 * [**Multi-agent soft constraint aggregation via sequential voting: theoretical and experimental results**](https://link.springer.com/article/10.1007/s10458-018-09400-y), C. Cornelio, M.S. Pini, F. Rossi, K. B. Venable, Journal of Autonomous Agents and Multi-Agent Systems (JAAMAS), 2019
