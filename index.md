@@ -18,7 +18,7 @@ I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK).
          <p align="center">  &rarr; <a href="https://ai-descartes.github.io/"> Visit the website </a> &larr; </p>
             <ul>
                <li> A novel combination of reasoning and machine learning for an automated scientific discovery pipeline. </li>
-               <li> Published in Nature Communications. </li>
+               <li> Published in <a href="https://www.nature.com/articles/s41467-023-37236-y#MOESM1">Nature Communications</a>. </li>
             </ul> 
       </td>
       <td> </td>
