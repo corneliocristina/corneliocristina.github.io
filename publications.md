@@ -69,7 +69,7 @@ title: Cristina Cornelio
 * **Symbolic Model Discovery Rectification**, L. Horesh, C. Cornelio, S. Dash, J.P. Goncalves, K. L. Clarkson, N. Megiddo, V. Austel, B. El Khadir, 2023
 * [**Generative Reasoning for Symbolic Discovery**](https://patents.google.com/patent/US20220108205A1/en), C. Cornelio, L. Horesh, V. Pestun, R. Yan, filed on: 10th Feb. 2020
 * [**Symbolic Model Discovery based on a combination of Numerical Learning Methods and Reasoning**](https://patents.google.com/patent/US20220027775A1/en), C Cornelio, L Horesh, A Fokoue-Nkoutche, Sanjeeb Dash, filed on: 21st Jul. 2020
-* [**Problem manipulators for language-independent reasoning**](https://patents.google.com/patent/US20210342710A1/en). C. Cornelio, A. Fokoue, A. Pareja, I. Abdelaziz, M. Witbrock, filed on: 29th Apr. 2020
+* [**Problem manipulators for language-independent computerized reasoning**](https://patents.google.com/patent/US20210342710A1/en). C. Cornelio, A. Fokoue, A. Pareja, I. Abdelaziz, M. Witbrock, filed on: 29th Apr. 2020
 * [**Experimental Design for Symbolic Model Discovery**](https://patents.google.com/patent/US20210334432A1/en). L. Horesh, K. Clarkson, C. Cornelio, S. Magliacane, filed on: 21st Apr. 2020
 * [**Capturing the global structure logical formulae with graph long short-term memory**](https://patents.google.com/patent/US20210150373A1/en), M. Crouse, I. Abdelaziz, C. Cornelio, V. Thost, L. Wu,  B. Makni, K. Srinivas, A. Fokoue, filed on: 14th Nov. 2019
 * [**Automatic transformation of complex tables in documents into computer understandable structured format and managing dependencies**](https://patents.google.com/patent/US20200334251A1/en), M. Canim, C. Cornelio, A. Iyengar, R. Musa, M. Rodriguez Muro, filed on: 18th Apr. 2019
