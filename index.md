@@ -19,6 +19,7 @@ I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK).
             <ul>
                <li> A novel combination of reasoning and machine learning for an automated scientific discovery pipeline. </li>
                <li> Published in <a href="https://www.nature.com/articles/s41467-023-37236-y">Nature Communications</a>. </li>
+               <li> Check out the 2024 follow-up paper: <a href="https://ai-hilbert.github.io">AI Hilbert</a>. </li>
             </ul> 
       </td>
       <td> </td>
