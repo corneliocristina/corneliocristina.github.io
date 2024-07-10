@@ -35,8 +35,5 @@ I'm **Cristina Cornelio**, Research Scientist at Samsung AI in Cambridge (UK).
 </table>
 
 ## News 
-* **August 2023** - The recording of NASR presentation at NeSy23 is now available on [YouTube](https://youtu.be/GoCcSWWlPKQ)
-* **July 2023** - NASR presented at [NeSy-2023](https://sites.google.com/view/nesy2023)
-* **May 2023** - AI-Descartes featured on the Nature Editors’ Highlights webpage of recent research for "AI and machine learning"
-* **May 2023** - NASR code now available on https://github.com/corneliocristina/NASR and https://github.com/SamsungLabs/NASR
-* **April 2023** - "Combining data and theory for derivable scientific discovery with AI-Descartes" published in *Nature Communications*
+* **July 2024** - :tada: Paper "Recover: A Neuro-Symbolic Framework for Failure Detection and Recovery" accepted at IROS 2024
+* **October 2023** - Invited talk at COLLOQUIUM PR[AI]RIE: "AI-Descartes: Combining Data and Knowledge for Scientific Discovery"
