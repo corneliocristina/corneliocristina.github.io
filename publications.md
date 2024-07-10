@@ -32,15 +32,16 @@ title: Cristina Cornelio
 
 ### Journal papers
 [comment]: <> (ADD BOOK CHAPTER)
-* [**Evolving Scientific Discovery by Unifying Data and Background Knowledge with AI Hilbert**](https://arxiv.org/abs/2308.09474), Ryan Cory-Wright, Cristina Cornelio, Sanjeeb Dash, Bachir El Khadir, Lior Horesh, JOURNAL:TO BE ANNOUNCED SOON, 2024
-* [**Combining data and theory for derivable scientific discovery with AI-Descartes**](https://www.nature.com/articles/s41467-023-37236-y), [PDF](https://rdcu.be/c9IAY), C. Cornelio, S. Dash, V. Austel, T. Josephson, J. Goncalves, K. Clarkson, N. Megiddo, B. El Khadir, L. Horesh, Nature Communications, 2023 
+* [**Evolving Scientific Discovery by Unifying Data and Background Knowledge with AI Hilbert**](https://arxiv.org/abs/2308.09474), Ryan Cory-Wright, Cristina Cornelio, Sanjeeb Dash, Bachir El Khadir, Lior Horesh, JOURNAL:TO BE ANNOUNCED SOON, 2024.
+* [**Combining data and theory for derivable scientific discovery with AI-Descartes**](https://www.nature.com/articles/s41467-023-37236-y), [PDF](https://rdcu.be/c9IAY), C. Cornelio, S. Dash, V. Austel, T. Josephson, J. Goncalves, K. Clarkson, N. Megiddo, B. El Khadir, L. Horesh, Nature Communications, 2023.
+* [**Learning to Guide a Saturation-Based Theorem Prover**](https://ieeexplore.ieee.org/document/9669114), I. Abdelaziz, M. Crouse; B. Makni; V. Austel; C. Cornelio; S. Ikbal; P. Kapanipathi, N. Makondo, K. Srinivas, M. Witbrock, A. Fokoue, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023.
 * [**Voting with random classifiers (VORACE): theoretical and experimental analysis**](https://link.springer.com/article/10.1007/s10458-021-09504-y), C. Cornelio, M. Donini, A. Loreggia, M.S. Pini, F. Rossi, Journal of Autonomous Agents and Multi-Agent Systems (JAAMAS), 2021. [📚 <img height="15" width="50" src="figures/bibtex.png" />](references/vorace.txt)
 * [**Deceased-donor-initiated chains: first report of a successful deliberate case and its ethical implications**](https://journals.lww.com/transplantjournal/fulltext/2019/10000/deceased_donor_initiated_chains__first_report_of_a.36.aspx), L. Furian, C. Cornelio, C. Silvestre, F. Rossi, P. Rigotti, E. Cozzi, F. Neri and A. Nicolò, Transplantation, 2019.
-* [**Multi-agent soft constraint aggregation via sequential voting: theoretical and experimental results**](https://link.springer.com/article/10.1007/s10458-018-09400-y), C. Cornelio, M.S. Pini, F. Rossi, K. B. Venable, Journal of Autonomous Agents and Multi-Agent Systems (JAAMAS), 2019
+* [**Multi-agent soft constraint aggregation via sequential voting: theoretical and experimental results**](https://link.springer.com/article/10.1007/s10458-018-09400-y), C. Cornelio, M.S. Pini, F. Rossi, K. B. Venable, Journal of Autonomous Agents and Multi-Agent Systems (JAAMAS), 2019.
 
 ### Conference papers
 * [**RECOVER: A neuro-symbolic framework for failure detection and recovery**](https://arxiv.org/abs/2404.00756), Cornelio, M. Diab, Proceedings of IROS 2024: IEEE/RSJ International Conference on Intelligent Robots and Systems - *oral pitch*, 2024.
-* [**Learning where and when to reason in neuro-symbolic inference**](https://openreview.net/forum?id=en9V5F8PR-), C. Cornelio, J. Stuehmer, S.X. Hu, T. Hospedales, Proceedings of the 11th International Conference on Learning Representations (ICLR) - *notable-top-5%*, 2023
+* [**Learning where and when to reason in neuro-symbolic inference**](https://openreview.net/forum?id=en9V5F8PR-), C. Cornelio, J. Stuehmer, S.X. Hu, T. Hospedales, Proceedings of the 11th International Conference on Learning Representations (ICLR) - *notable-top-5%*, 2023.
 * [**Sequential voting in multi-agent soft constraint aggregation**](http://www.ifaamas.org/Proceedings/aamas2020/pdfs/p2131.pdf), C. Cornelio, M.S. Pini, F. Rossi, K. B. Venable, Proceedings of the International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS) 2020 - JAAMAS track.
 * [**Voting with Random Classifiers (VORACE)**](https://dl.acm.org/doi/10.5555/3398761.3398994), C. Cornelio, M. Donini, A. Loreggia, M.S. Pini, F. Rossi, Proceedings of the International Conference on Autonomous Agents & Multiagent Systems 2020 (AAMAS-20).
 * [**Synthetic Datasets and Evaluation Tools for Inductive Neural Reasoning**](https://arxiv.org/abs/1909.07095), C. Cornelio and V. Thost, Proceedings of the 30th International Conference of Inductive Logic Programming, ILP-21 (2021).
@@ -52,6 +53,7 @@ title: Cristina Cornelio
 * [**Dynamic and Probabilistic CP-nets**](https://www.math.unipd.it/~cornelio/documents/CPDP.pdf), C. Cornelio, Proceedings of the Doctoral Program of International Conference on Principles and Practice of Constraint Programming 2013, CP-13. 
 
 ### Workshop and ArXiv papers
+* [**Learning where and when to reason in neuro-symbolic inference**](https://openreview.net/forum?id=en9V5F8PR-), C. Cornelio, J. Stuehmer, S.X. Hu, T. Hospedales, NeSy 2023: 17th International Workshop on Neural-Symbolic Learning and Reasoning (Recently-published papers track), 2023.
 * [**Bayesian Experimental Design for Symbolic Discovery**](https://arxiv.org/abs/2211.15860), K. L. Clarkson, C. Cornelio, S. Dash, J. Goncalves, L. Horesh, N. Megiddo, arXiv:2211.15860, 2022
 * [**Schemaless Queries over Document Tables with Dependencies**](https://arxiv.org/abs/1911.09356), M. Canim, C. Cornelio, A. Iyengar, R. Musa, M. Rodrigez Muro, 2019, arXiv:1911.09356
 * [**Improving Graph Neural Network Representations of Logical Formulae with Subgraph Pooling**](https://arxiv.org/pdf/1911.06904.pdf), M. Crouse, I. Abdelaziz, C. Cornelio, V. Thost, L. Wu, K. Forbus and A. Fokoue, The Second International Workshop on Deep Learning on Graphs: Methods and Applications 2020 (DLG-KDD’20).
