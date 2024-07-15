@@ -8,7 +8,7 @@ title: Cristina Cornelio
  <a id="projects"></a>
 ## Selected projects
 * **AI-Hilbert** - A novel paradigm for scientific discovery that exploits the combination of logical reasoning and polynomial optimization.
-  * Published in ... (to be announced soon)
+  * Published in [Nature Communications](https://nature.com/articles/s41467-024-50074-w)
   * More info on [AI-Hilbert website](https://ai-hilbert.github.io/) 
 * **RECOVER** - A neuro-symbolic framework for failure detection and recovery in robotics
   * [IROS 2024](https://iros2024-abudhabi.org) - *International Conference on Intelligent Robots and Systems*
@@ -32,7 +32,7 @@ title: Cristina Cornelio
 
 ### Journal papers
 [comment]: <> (ADD BOOK CHAPTER)
-* [**Evolving Scientific Discovery by Unifying Data and Background Knowledge with AI Hilbert**](https://arxiv.org/abs/2308.09474), Ryan Cory-Wright, Cristina Cornelio, Sanjeeb Dash, Bachir El Khadir, Lior Horesh, JOURNAL:TO BE ANNOUNCED SOON, 2024.
+* [**Evolving Scientific Discovery by Unifying Data and Background Knowledge with AI Hilbert**](https://nature.com/articles/s41467-024-50074-w), Ryan Cory-Wright, Cristina Cornelio, Sanjeeb Dash, Bachir El Khadir, Lior Horesh, Nature Communications, 2024.
 * [**Combining data and theory for derivable scientific discovery with AI-Descartes**](https://www.nature.com/articles/s41467-023-37236-y), [PDF](https://rdcu.be/c9IAY), C. Cornelio, S. Dash, V. Austel, T. Josephson, J. Goncalves, K. Clarkson, N. Megiddo, B. El Khadir, L. Horesh, Nature Communications, 2023.
 * [**Learning to Guide a Saturation-Based Theorem Prover**](https://ieeexplore.ieee.org/document/9669114), I. Abdelaziz, M. Crouse; B. Makni; V. Austel; C. Cornelio; S. Ikbal; P. Kapanipathi, N. Makondo, K. Srinivas, M. Witbrock, A. Fokoue, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023.
 * [**Voting with random classifiers (VORACE): theoretical and experimental analysis**](https://link.springer.com/article/10.1007/s10458-021-09504-y), C. Cornelio, M. Donini, A. Loreggia, M.S. Pini, F. Rossi, Journal of Autonomous Agents and Multi-Agent Systems (JAAMAS), 2021. [📚 <img height="15" width="50" src="figures/bibtex.png" />](references/vorace.txt)
