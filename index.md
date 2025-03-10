@@ -34,9 +34,3 @@ I'm **Cristina Cornelio**, Senior Research Scientist at Samsung AI in Cambridge 
       </td>
    </tr>
 </table>
-
-## News 
-* **July 2024** - 🎉 Paper "Evolving scientific discovery by unifying data and background knowledge with AI Hilbert" just published in Nature Communications
-* **July 2024** - 🎉 Paper "Recover: A Neuro-Symbolic Framework for Failure Detection and Recovery" accepted at IROS 2024
-* **June 2024 CFP** - 📣 Call for papers: Special issue [Neurosymbolic Generative Models](https://neurosymbolic-ai-journal.com/content/call-papers-special-issue-neurosymbolic-generative-models) Deadline: Nov 15, 2024.
-* **October 2023** - Invited talk at COLLOQUIUM PR[AI]RIE: "AI-Descartes: Combining Data and Knowledge for Scientific Discovery"
